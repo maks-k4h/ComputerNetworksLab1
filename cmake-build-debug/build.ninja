@@ -116,6 +116,18 @@ build Client/CMakeFiles/LabClient.dir/__/libs/Logger.cpp.o: CXX_COMPILER__LabCli
   OBJECT_DIR = Client/CMakeFiles/LabClient.dir
   OBJECT_FILE_DIR = Client/CMakeFiles/LabClient.dir/__/libs
 
+build Client/CMakeFiles/LabClient.dir/__/MSP/MspConnection.cpp.o: CXX_COMPILER__LabClient_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/MSP/MspConnection.cpp || cmake_object_order_depends_target_LabClient
+  DEP_FILE = Client/CMakeFiles/LabClient.dir/__/MSP/MspConnection.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Client/CMakeFiles/LabClient.dir
+  OBJECT_FILE_DIR = Client/CMakeFiles/LabClient.dir/__/MSP
+
+build Client/CMakeFiles/LabClient.dir/__/MSP/MspException.cpp.o: CXX_COMPILER__LabClient_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/MSP/MspException.cpp || cmake_object_order_depends_target_LabClient
+  DEP_FILE = Client/CMakeFiles/LabClient.dir/__/MSP/MspException.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Client/CMakeFiles/LabClient.dir
+  OBJECT_FILE_DIR = Client/CMakeFiles/LabClient.dir/__/MSP
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LabClient
@@ -124,7 +136,7 @@ build Client/CMakeFiles/LabClient.dir/__/libs/Logger.cpp.o: CXX_COMPILER__LabCli
 #############################################
 # Link the executable Client/LabClient
 
-build Client/LabClient: CXX_EXECUTABLE_LINKER__LabClient_Debug Client/CMakeFiles/LabClient.dir/main.cpp.o Client/CMakeFiles/LabClient.dir/Client.cpp.o Client/CMakeFiles/LabClient.dir/__/libs/StringStorage.cpp.o Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Connector.cpp.o Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Connection.cpp.o Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Exception.cpp.o Client/CMakeFiles/LabClient.dir/__/libs/Logger.cpp.o
+build Client/LabClient: CXX_EXECUTABLE_LINKER__LabClient_Debug Client/CMakeFiles/LabClient.dir/main.cpp.o Client/CMakeFiles/LabClient.dir/Client.cpp.o Client/CMakeFiles/LabClient.dir/__/libs/StringStorage.cpp.o Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Connector.cpp.o Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Connection.cpp.o Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Exception.cpp.o Client/CMakeFiles/LabClient.dir/__/libs/Logger.cpp.o Client/CMakeFiles/LabClient.dir/__/MSP/MspConnection.cpp.o Client/CMakeFiles/LabClient.dir/__/MSP/MspException.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk
   OBJECT_DIR = Client/CMakeFiles/LabClient.dir
   POST_BUILD = :
@@ -211,6 +223,18 @@ build Server/CMakeFiles/LabServer.dir/__/libs/Logger.cpp.o: CXX_COMPILER__LabSer
   OBJECT_DIR = Server/CMakeFiles/LabServer.dir
   OBJECT_FILE_DIR = Server/CMakeFiles/LabServer.dir/__/libs
 
+build Server/CMakeFiles/LabServer.dir/__/MSP/MspConnection.cpp.o: CXX_COMPILER__LabServer_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/MSP/MspConnection.cpp || cmake_object_order_depends_target_LabServer
+  DEP_FILE = Server/CMakeFiles/LabServer.dir/__/MSP/MspConnection.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Server/CMakeFiles/LabServer.dir
+  OBJECT_FILE_DIR = Server/CMakeFiles/LabServer.dir/__/MSP
+
+build Server/CMakeFiles/LabServer.dir/__/MSP/MspException.cpp.o: CXX_COMPILER__LabServer_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/MSP/MspException.cpp || cmake_object_order_depends_target_LabServer
+  DEP_FILE = Server/CMakeFiles/LabServer.dir/__/MSP/MspException.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Server/CMakeFiles/LabServer.dir
+  OBJECT_FILE_DIR = Server/CMakeFiles/LabServer.dir/__/MSP
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LabServer
@@ -219,7 +243,7 @@ build Server/CMakeFiles/LabServer.dir/__/libs/Logger.cpp.o: CXX_COMPILER__LabSer
 #############################################
 # Link the executable Server/LabServer
 
-build Server/LabServer: CXX_EXECUTABLE_LINKER__LabServer_Debug Server/CMakeFiles/LabServer.dir/main.cpp.o Server/CMakeFiles/LabServer.dir/Server.cpp.o Server/CMakeFiles/LabServer.dir/__/libs/StringStorage.cpp.o Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Connector.cpp.o Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Connection.cpp.o Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Exception.cpp.o Server/CMakeFiles/LabServer.dir/__/libs/Logger.cpp.o
+build Server/LabServer: CXX_EXECUTABLE_LINKER__LabServer_Debug Server/CMakeFiles/LabServer.dir/main.cpp.o Server/CMakeFiles/LabServer.dir/Server.cpp.o Server/CMakeFiles/LabServer.dir/__/libs/StringStorage.cpp.o Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Connector.cpp.o Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Connection.cpp.o Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Exception.cpp.o Server/CMakeFiles/LabServer.dir/__/libs/Logger.cpp.o Server/CMakeFiles/LabServer.dir/__/MSP/MspConnection.cpp.o Server/CMakeFiles/LabServer.dir/__/MSP/MspException.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk
   OBJECT_DIR = Server/CMakeFiles/LabServer.dir
   POST_BUILD = :

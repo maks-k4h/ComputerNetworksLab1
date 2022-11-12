@@ -5,7 +5,7 @@
 #ifndef LIBS_STRINGSTORAGE_H_
 #define LIBS_STRINGSTORAGE_H_
 
-#define MAX_STRING_L 200
+#define MAX_STRING_L 69
 
 #include <string>
 #include <vector>
@@ -14,30 +14,35 @@
 class StringStorage {
 public:
 
+    explicit StringStorage(int stringNumber);
+
     using IdType    = uint8_t;
     using HashType  = uint8_t;
 
     struct Node
     {
-        IdType id;
-        std::string data;
-        HashType hash;
+        IdType id_;
+        HashType hash_;
+        std::string data_;
     };
 
-    Node getById(IdType id)
-    {
-        auto v = std::find_if(nodes_.begin(), nodes_.end(),
-        [id](Node& n)
-        {
-            return n.id == id;
-        } );
-
-        if (v == nodes_.end())
-            throw std::exception();
-    }
+    Node getById(IdType id);
+    void setDataById(IdType id, const std::string& data);
 
 private:
     std::vector<Node> nodes_;
+};
+
+
+class StringStorageException : public std::exception
+{
+public:
+    explicit StringStorageException(std::string  message);
+
+    const char* what() const _NOEXCEPT override;
+
+private:
+    std::string message_;
 };
 
 

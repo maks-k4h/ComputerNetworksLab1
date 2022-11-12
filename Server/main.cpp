@@ -7,6 +7,6 @@
 
 int main()
 {
-    auto server = Server();
+    Server server("/Users/makskonevych/Documents/Cpp/Labs/CNLab/serverlogs.txt");
     server.run();
 }

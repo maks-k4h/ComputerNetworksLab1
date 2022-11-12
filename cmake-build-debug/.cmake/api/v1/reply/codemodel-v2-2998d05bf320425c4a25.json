@@ -95,14 +95,14 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "LabClient::@39d0ae6511a0d9878f7b",
-					"jsonFile" : "target-LabClient-Debug-51d0d961d2b79c54050d.json",
+					"jsonFile" : "target-LabClient-Debug-82417b3f24a107ed260b.json",
 					"name" : "LabClient",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "LabServer::@20a40c4b36ca103854cb",
-					"jsonFile" : "target-LabServer-Debug-f00e5273729596e73229.json",
+					"jsonFile" : "target-LabServer-Debug-78476d46534fffa2338f.json",
 					"name" : "LabServer",
 					"projectIndex" : 2
 				}

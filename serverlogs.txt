@@ -1,54 +1,166 @@
-STATUS Sat Nov 12 15:44:05 2022
-	Listening on 1025with backlog of 5, file descriptor is 3.
-STATUS Sat Nov 12 15:44:32 2022
-	Listening on 1025with backlog of 5, file descriptor is 3.
-STATUS Sat Nov 12 15:44:40 2022
-	Accepted new request on socket with file descriptor 3. Requested from 16.2.208.159.
-STATUS Sat Nov 12 15:45:43 2022
-	Listening on 1025with backlog of 5, file descriptor is 3.
-STATUS Sat Nov 12 15:45:47 2022
-	Accepted new request on socket with file descriptor 3. Requested from 16.2.208.164.
-STATUS Sat Nov 12 15:47:50 2022
-	Listening on 1025with backlog of 5, file descriptor is 3.
-STATUS Sat Nov 12 15:47:54 2022
-	Accepted new request on socket with file descriptor 3. Requested from 16.2.208.165.
-STATUS Sat Nov 12 15:48:39 2022
-	Listening on 1025with backlog of 5, file descriptor is 3.
-STATUS Sat Nov 12 15:48:49 2022
-	Accepted new request on socket with file descriptor 3. Requested from 16.2.208.169.
-STATUS Sat Nov 12 15:50:32 2022
-	Listening on 1025with backlog of 5, file descriptor is 3.
-STATUS Sat Nov 12 15:51:06 2022
-	Accepted new request on socket with file descriptor 3. Requested from 16.2.208.175.
-STATUS Sat Nov 12 15:51:37 2022
-	Listening on 1025with backlog of 5, file descriptor is 3.
-STATUS Sat Nov 12 15:51:40 2022
-	Accepted new request on socket with file descriptor 3. Requested from 16.2.208.178.
-STATUS Sat Nov 12 15:51:40 2022
-	Received |Hello, server!| from socked 4.
-STATUS Sat Nov 12 15:51:40 2022
-	Sent |Hello form server!| from socked 4.
-STATUS Sat Nov 12 15:51:40 2022
+STATUS Sat Nov 12 19:13:03 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 19:13:12 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 19:14:00 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.211.237. The created file descriptor is 4.
+STATUS Sat Nov 12 19:14:01 2022
+	Received <<<Hello, server!>>> from socket 4.
+STATUS Sat Nov 12 19:14:01 2022
+	Sent <<<Hello form server!>>> from socket 4.
+STATUS Sat Nov 12 19:14:01 2022
 	Closed connection on 4.
-STATUS Sat Nov 12 18:19:53 2022
-	Listening on 1025with backlog of 5, file descriptor is 3.
-STATUS Sat Nov 12 18:20:18 2022
-	Accepted new request on socket with file descriptor 3. Requested from 16.2.211.129.
-STATUS Sat Nov 12 18:20:19 2022
-	Received <<<Hello, server!>>> from socked 4.
-STATUS Sat Nov 12 18:20:19 2022
-	Sent |Hello form server!| from socked 4.
-STATUS Sat Nov 12 18:20:19 2022
-	Closed connection on 4.
-STATUS Sat Nov 12 18:20:19 2022
+STATUS Sat Nov 12 19:14:01 2022
 	Stopped listening on fd 3
-STATUS Sat Nov 12 18:21:05 2022
-	Listening on 1025with backlog of 5, file descriptor is 3.
-STATUS Sat Nov 12 18:21:07 2022
-	Accepted new request on socket with file descriptor 3. Requested from 16.2.211.132.
-STATUS Sat Nov 12 18:21:07 2022
-	Received <<<Hello, server!>>> from socked 4.
-STATUS Sat Nov 12 18:21:07 2022
+STATUS Sat Nov 12 19:46:50 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 19:56:31 2022
+	Starting server on thread 0x1f9c3a500.
+STATUS Sat Nov 12 19:56:31 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 20:00:52 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.212.7. The created file descriptor is 4.
+STATUS Sat Nov 12 20:00:52 2022
+	New connection will be processed on thread + 0x16fbdf000
+STATUS Sat Nov 12 20:00:52 2022
+	Received <<<Hello, server!>>> from socket 4.
+STATUS Sat Nov 12 20:00:52 2022
+	Sent <<<Hello form server!>>> from socket 4.
+STATUS Sat Nov 12 20:00:52 2022
 	Closed connection on 4.
-STATUS Sat Nov 12 18:21:07 2022
-	Stopped listening on fd 3
+STATUS Sat Nov 12 20:01:37 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.212.9. The created file descriptor is 4.
+STATUS Sat Nov 12 20:01:37 2022
+	New connection will be processed on thread + 0x16fbdf000
+STATUS Sat Nov 12 20:01:37 2022
+	Received <<<Hello, server!>>> from socket 4.
+STATUS Sat Nov 12 20:01:37 2022
+	Sent <<<Hello form server!>>> from socket 4.
+STATUS Sat Nov 12 20:01:37 2022
+	Closed connection on 4.
+STATUS Sat Nov 12 20:02:36 2022
+	Starting server on thread 0x1f9c3a500.
+STATUS Sat Nov 12 20:02:36 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 20:52:28 2022
+	Starting server on thread 0x1f9c3a500.
+STATUS Sat Nov 12 20:52:28 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 21:50:46 2022
+	Starting server on thread 0x1f9c3a500.
+STATUS Sat Nov 12 21:50:46 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 21:50:52 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.212.192. The created file descriptor is 4.
+STATUS Sat Nov 12 21:50:58 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sat Nov 12 21:50:58 2022
+	recv(4, <buffer>, 4, 0 failed. Returned value =0 — the intended sender has closed the connection.
+STATUS Sat Nov 12 21:50:58 2022
+	Closed connection on 4.
+ERROR Sat Nov 12 21:50:58 2022
+	recv(4, <buffer>, 4, 0 failed. Returned value =0 — the intended sender has closed the connection.
+STATUS Sat Nov 12 21:51:44 2022
+	Starting server on thread 0x1f9c3a500.
+STATUS Sat Nov 12 21:51:44 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 21:51:46 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.212.196. The created file descriptor is 4.
+STATUS Sat Nov 12 21:51:46 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sat Nov 12 21:51:46 2022
+	recv(4, <buffer>, 4, 0 failed. Returned value =0 — the intended sender has closed the connection.
+STATUS Sat Nov 12 21:51:46 2022
+	Closed connection on 4.
+ERROR Sat Nov 12 21:51:46 2022
+	recv(4, <buffer>, 4, 0 failed. Returned value =0 — the intended sender has closed the connection.
+STATUS Sat Nov 12 21:54:35 2022
+	Starting server on thread 0x1f9c3a500.
+STATUS Sat Nov 12 21:54:35 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 21:54:44 2022
+	Starting server on thread 0x1f9c3a500.
+STATUS Sat Nov 12 21:54:44 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 21:54:46 2022
+	Starting server on thread 0x1f9c3a500.
+STATUS Sat Nov 12 21:54:46 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 21:54:50 2022
+	Starting server on thread 0x1f9c3a500.
+STATUS Sat Nov 12 21:54:50 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 21:54:57 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.212.214. The created file descriptor is 4.
+STATUS Sat Nov 12 21:54:57 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sat Nov 12 21:54:57 2022
+	Received <<<Hello, serverdsf,l>>> from socket 4.
+ERROR Sat Nov 12 21:54:57 2022
+	Handshake failed on socket 4.
+STATUS Sat Nov 12 21:54:57 2022
+	Closed connection on 4.
+ERROR Sat Nov 12 21:54:57 2022
+	Handshake failed on socket 4.
+STATUS Sat Nov 12 21:58:02 2022
+	Starting server on thread 0x1f9c3a500.
+STATUS Sat Nov 12 21:58:02 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 21:58:35 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.212.227. The created file descriptor is 4.
+STATUS Sat Nov 12 21:58:35 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sat Nov 12 21:58:35 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sat Nov 12 21:58:35 2022
+	Closed connection on 4.
+STATUS Sat Nov 12 21:58:35 2022
+	New connection will be processed on thread 0x16b65f000
+STATUS Sat Nov 12 21:59:01 2022
+	Starting server on thread 0x1f9c3a500.
+STATUS Sat Nov 12 21:59:01 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 21:59:04 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.212.229. The created file descriptor is 4.
+STATUS Sat Nov 12 21:59:04 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sat Nov 12 21:59:04 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sat Nov 12 21:59:04 2022
+	Closed connection on 4.
+STATUS Sat Nov 12 21:59:04 2022
+	New connection will be processed on thread 0x16da17000
+STATUS Sat Nov 12 21:59:43 2022
+	Starting server on thread 0x1f9c3a500.
+STATUS Sat Nov 12 21:59:43 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 21:59:45 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.212.231. The created file descriptor is 4.
+STATUS Sat Nov 12 21:59:45 2022
+	New connection will be processed on thread 0x16aebb000
+STATUS Sat Nov 12 21:59:45 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sat Nov 12 21:59:46 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sat Nov 12 21:59:46 2022
+	Closed connection on 4.
+STATUS Sat Nov 12 22:01:14 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.212.235. The created file descriptor is 4.
+STATUS Sat Nov 12 22:01:14 2022
+	New connection will be processed on thread 0x16aebb000
+STATUS Sat Nov 12 22:01:14 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sat Nov 12 22:01:15 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sat Nov 12 22:01:15 2022
+	Closed connection on 4.
+STATUS Sat Nov 12 22:01:16 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.212.236. The created file descriptor is 4.
+STATUS Sat Nov 12 22:01:16 2022
+	New connection will be processed on thread 0x16aebb000
+STATUS Sat Nov 12 22:01:16 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sat Nov 12 22:01:16 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sat Nov 12 22:01:16 2022
+	Closed connection on 4.

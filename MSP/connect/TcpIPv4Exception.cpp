@@ -6,7 +6,7 @@
 
 #include <utility>
 
-TcpIPv4Exception::TcpIPv4Exception(std::string  message)
+TcpIPv4Exception::TcpIPv4Exception(std::string message)
 : message_{std::move(message)}
 {
 }

@@ -37,6 +37,11 @@ public:
     explicit TcpIPv4Connector(Logger* logger = nullptr);
     ~TcpIPv4Connector();
 
+    TcpIPv4Connector(const TcpIPv4Connector&) = delete;
+    TcpIPv4Connector& operator=(const TcpIPv4Connection&) = delete;
+
+    TcpIPv4Connector(TcpIPv4Connector&&) noexcept;
+
     TcpIPv4Connection connect(const std::string& host, const std::string& service);
     void stopListening();
     void listen(const std::string& service, int backlog);

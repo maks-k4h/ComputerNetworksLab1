@@ -54,7 +54,7 @@ void TcpIPv4Connection::send(const std::string& message)
         sent += a;
     }
 
-    logStatus("Sent <<<" + message + ">>> from socked " + std::to_string(fd_) + ".");
+    logStatus("Sent <<<" + message + ">>> from socket " + std::to_string(fd_) + ".");
 }
 
 std::string TcpIPv4Connection::receive(int len)
@@ -98,7 +98,7 @@ std::string TcpIPv4Connection::receive(int len)
         len -= a;
     }
 
-    logStatus("Received <<<" + res + ">>> from socked " + std::to_string(fd_) + ".");
+    logStatus("Received <<<" + res + ">>> from socket " + std::to_string(fd_) + ".");
 
     return res;
 }
@@ -168,7 +168,7 @@ std::string TcpIPv4Connection::receive(bool blocking, std::chrono::nanoseconds t
         ioctl(fd_, FIONREAD, &count); // checking if there is any data to receive
     }
 
-    logStatus("Received <<<" + res + ">>> from socked " + std::to_string(fd_) + ".");
+    logStatus("Received <<<" + res + ">>> from socket " + std::to_string(fd_) + ".");
 
     return res;
 }
@@ -183,5 +183,14 @@ void TcpIPv4Connection::logError(const std::string& s)
 {
     if (logger_)
         logger_->logError(s);
+}
+
+TcpIPv4Connection::TcpIPv4Connection(TcpIPv4Connection&& that) noexcept
+{
+    this->fd_ = that.fd_;
+    this->logger_ = that.logger_;
+    this->connected_ = that.connected_;
+
+    that.connected_ = false;    // making 'that' no longer active
 }
 

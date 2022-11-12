@@ -21,6 +21,15 @@ TcpIPv4Connector::~TcpIPv4Connector()
     stopListening();
 }
 
+TcpIPv4Connector::TcpIPv4Connector(TcpIPv4Connector &&that) noexcept
+{
+    this->logger_ = that.logger_;
+    this->fd_ = that.fd_;
+    this->listening = that.listening;
+
+    that.listening = false; // deactivating 'that'
+}
+
 TcpIPv4Connection TcpIPv4Connector::connect(const std::string& host, const std::string& service)
 {
     if (listening)
@@ -142,7 +151,7 @@ void TcpIPv4Connector::stopListening()
     {
         ::close(fd_);
         listening = false;
-        logStatus("Stopped listening on fd " + std::to_string(fd_));
+        logStatus("Stopped listening on socket " + std::to_string(fd_));
     }
 }
 

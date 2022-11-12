@@ -58,7 +58,9 @@
 				3,
 				4,
 				5,
-				6
+				6,
+				7,
+				9
 			]
 		}
 	],
@@ -97,7 +99,17 @@
 				3,
 				4,
 				5,
-				6
+				6,
+				7,
+				9
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				8,
+				10
 			]
 		}
 	],
@@ -144,6 +156,28 @@
 			"compileGroupIndex" : 0,
 			"path" : "libs/Logger.cpp",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "MSP/MspConnection.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "MSP/MspConnection.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "MSP/MspException.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "MSP/MspException.h",
+			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"

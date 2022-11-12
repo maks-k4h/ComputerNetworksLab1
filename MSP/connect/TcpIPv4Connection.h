@@ -17,6 +17,12 @@ public:
     explicit TcpIPv4Connection(int fd, Logger* logger = nullptr);
     ~TcpIPv4Connection();
 
+    TcpIPv4Connection(const TcpIPv4Connection&) = delete;
+    TcpIPv4Connection& operator=(const TcpIPv4Connection&) = delete;
+
+
+    TcpIPv4Connection(TcpIPv4Connection&&) noexcept;
+
     void close();
 
     void send(const std::string& m);

@@ -11,7 +11,7 @@
 class TcpIPv4Exception : public std::exception
 {
 public:
-    explicit TcpIPv4Exception(std::string  message);
+    explicit TcpIPv4Exception(std::string message);
 
     const char* what() const _NOEXCEPT override;
 

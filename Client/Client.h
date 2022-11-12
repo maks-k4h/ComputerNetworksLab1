@@ -9,15 +9,17 @@
 #include <list>
 
 #include "../libs/StringStorage.h"
-#include "../MSP/connect/TcpIPv4Connector.h"
+#include "../libs/Logger.h"
 
 class Client {
 public:
+    explicit Client(std::string logFilePath);
 
     void run();
 
 private:
     StringStorage stringStorage_;
+    Logger logger_;
 };
 
 

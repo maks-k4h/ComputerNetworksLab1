@@ -7,7 +7,7 @@
 
 int main()
 {
-    Client client;
+    Client client("/Users/makskonevych/Documents/Cpp/Labs/CNLab/clientlogs.txt");
     client.run();
 }
 

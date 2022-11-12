@@ -23,6 +23,8 @@ void Logger::logError(const std::string& m)
 
 void Logger::log(const std::string& h, const std::string& m)
 {
+    const std::lock_guard<std::mutex> lock(mutex_);
+
     auto t = time(nullptr);
     auto message = h + std::string(ctime(&t)) + "\t" + m + '\n';
 
@@ -43,6 +45,23 @@ void Logger::log(const std::string& h, const std::string& m)
             logFile.close();
         }
     }
+
+    try
+    {
+       for (auto os : additionalStreams_)
+       {
+           *os << message;
+       }
+    }
+    catch (...)
+    {
+        // ignored
+    }
+}
+
+void Logger::addOutputStream(std::ostream *os)
+{
+    additionalStreams_.push_back(os);
 }
 
 
