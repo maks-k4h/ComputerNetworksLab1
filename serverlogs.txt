@@ -1,0 +1,54 @@
+STATUS Sat Nov 12 15:44:05 2022
+	Listening on 1025with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 15:44:32 2022
+	Listening on 1025with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 15:44:40 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.208.159.
+STATUS Sat Nov 12 15:45:43 2022
+	Listening on 1025with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 15:45:47 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.208.164.
+STATUS Sat Nov 12 15:47:50 2022
+	Listening on 1025with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 15:47:54 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.208.165.
+STATUS Sat Nov 12 15:48:39 2022
+	Listening on 1025with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 15:48:49 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.208.169.
+STATUS Sat Nov 12 15:50:32 2022
+	Listening on 1025with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 15:51:06 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.208.175.
+STATUS Sat Nov 12 15:51:37 2022
+	Listening on 1025with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 15:51:40 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.208.178.
+STATUS Sat Nov 12 15:51:40 2022
+	Received |Hello, server!| from socked 4.
+STATUS Sat Nov 12 15:51:40 2022
+	Sent |Hello form server!| from socked 4.
+STATUS Sat Nov 12 15:51:40 2022
+	Closed connection on 4.
+STATUS Sat Nov 12 18:19:53 2022
+	Listening on 1025with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 18:20:18 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.211.129.
+STATUS Sat Nov 12 18:20:19 2022
+	Received <<<Hello, server!>>> from socked 4.
+STATUS Sat Nov 12 18:20:19 2022
+	Sent |Hello form server!| from socked 4.
+STATUS Sat Nov 12 18:20:19 2022
+	Closed connection on 4.
+STATUS Sat Nov 12 18:20:19 2022
+	Stopped listening on fd 3
+STATUS Sat Nov 12 18:21:05 2022
+	Listening on 1025with backlog of 5, file descriptor is 3.
+STATUS Sat Nov 12 18:21:07 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.211.132.
+STATUS Sat Nov 12 18:21:07 2022
+	Received <<<Hello, server!>>> from socked 4.
+STATUS Sat Nov 12 18:21:07 2022
+	Closed connection on 4.
+STATUS Sat Nov 12 18:21:07 2022
+	Stopped listening on fd 3

@@ -1,0 +1,316 @@
+## This file contains all the build statements describing the
+# compilation DAG.
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# 
+# Which is the root file.
+# =============================================================================
+
+# =============================================================================
+# Project: Lab
+# Configurations: Debug
+# =============================================================================
+
+#############################################
+# Minimal version of Ninja required by this file
+
+ninja_required_version = 1.5
+
+
+#############################################
+# Set configuration variable for custom commands.
+
+CONFIGURATION = Debug
+# =============================================================================
+# Include auxiliary files.
+
+
+#############################################
+# Include rules file.
+
+include CMakeFiles/rules.ninja
+
+# =============================================================================
+
+#############################################
+# Logical path to working directory; prefix for absolute paths.
+
+cmake_ninja_workdir = /Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug/
+
+#############################################
+# Utility command for edit_cache
+
+build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build edit_cache: phony CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/makskonevych/Documents/Cpp/Labs/CNLab -B/Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build rebuild_cache: phony CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# /Users/makskonevych/Documents/Cpp/Labs/CNLab/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target LabClient
+
+
+#############################################
+# Order-only phony target for LabClient
+
+build cmake_object_order_depends_target_LabClient: phony || Client/CMakeFiles/LabClient.dir
+
+build Client/CMakeFiles/LabClient.dir/main.cpp.o: CXX_COMPILER__LabClient_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/Client/main.cpp || cmake_object_order_depends_target_LabClient
+  DEP_FILE = Client/CMakeFiles/LabClient.dir/main.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Client/CMakeFiles/LabClient.dir
+  OBJECT_FILE_DIR = Client/CMakeFiles/LabClient.dir
+
+build Client/CMakeFiles/LabClient.dir/Client.cpp.o: CXX_COMPILER__LabClient_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/Client/Client.cpp || cmake_object_order_depends_target_LabClient
+  DEP_FILE = Client/CMakeFiles/LabClient.dir/Client.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Client/CMakeFiles/LabClient.dir
+  OBJECT_FILE_DIR = Client/CMakeFiles/LabClient.dir
+
+build Client/CMakeFiles/LabClient.dir/__/libs/StringStorage.cpp.o: CXX_COMPILER__LabClient_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/libs/StringStorage.cpp || cmake_object_order_depends_target_LabClient
+  DEP_FILE = Client/CMakeFiles/LabClient.dir/__/libs/StringStorage.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Client/CMakeFiles/LabClient.dir
+  OBJECT_FILE_DIR = Client/CMakeFiles/LabClient.dir/__/libs
+
+build Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Connector.cpp.o: CXX_COMPILER__LabClient_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/MSP/connect/TcpIPv4Connector.cpp || cmake_object_order_depends_target_LabClient
+  DEP_FILE = Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Connector.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Client/CMakeFiles/LabClient.dir
+  OBJECT_FILE_DIR = Client/CMakeFiles/LabClient.dir/__/MSP/connect
+
+build Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Connection.cpp.o: CXX_COMPILER__LabClient_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/MSP/connect/TcpIPv4Connection.cpp || cmake_object_order_depends_target_LabClient
+  DEP_FILE = Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Connection.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Client/CMakeFiles/LabClient.dir
+  OBJECT_FILE_DIR = Client/CMakeFiles/LabClient.dir/__/MSP/connect
+
+build Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Exception.cpp.o: CXX_COMPILER__LabClient_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/MSP/connect/TcpIPv4Exception.cpp || cmake_object_order_depends_target_LabClient
+  DEP_FILE = Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Exception.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Client/CMakeFiles/LabClient.dir
+  OBJECT_FILE_DIR = Client/CMakeFiles/LabClient.dir/__/MSP/connect
+
+build Client/CMakeFiles/LabClient.dir/__/libs/Logger.cpp.o: CXX_COMPILER__LabClient_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/libs/Logger.cpp || cmake_object_order_depends_target_LabClient
+  DEP_FILE = Client/CMakeFiles/LabClient.dir/__/libs/Logger.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Client/CMakeFiles/LabClient.dir
+  OBJECT_FILE_DIR = Client/CMakeFiles/LabClient.dir/__/libs
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LabClient
+
+
+#############################################
+# Link the executable Client/LabClient
+
+build Client/LabClient: CXX_EXECUTABLE_LINKER__LabClient_Debug Client/CMakeFiles/LabClient.dir/main.cpp.o Client/CMakeFiles/LabClient.dir/Client.cpp.o Client/CMakeFiles/LabClient.dir/__/libs/StringStorage.cpp.o Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Connector.cpp.o Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Connection.cpp.o Client/CMakeFiles/LabClient.dir/__/MSP/connect/TcpIPv4Exception.cpp.o Client/CMakeFiles/LabClient.dir/__/libs/Logger.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk
+  OBJECT_DIR = Client/CMakeFiles/LabClient.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Client/LabClient
+  TARGET_PDB = LabClient.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build Client/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug/Client && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Client/edit_cache: phony Client/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Client/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug/Client && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/makskonevych/Documents/Cpp/Labs/CNLab -B/Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Client/rebuild_cache: phony Client/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# /Users/makskonevych/Documents/Cpp/Labs/CNLab/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target LabServer
+
+
+#############################################
+# Order-only phony target for LabServer
+
+build cmake_object_order_depends_target_LabServer: phony || Server/CMakeFiles/LabServer.dir
+
+build Server/CMakeFiles/LabServer.dir/main.cpp.o: CXX_COMPILER__LabServer_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/Server/main.cpp || cmake_object_order_depends_target_LabServer
+  DEP_FILE = Server/CMakeFiles/LabServer.dir/main.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Server/CMakeFiles/LabServer.dir
+  OBJECT_FILE_DIR = Server/CMakeFiles/LabServer.dir
+
+build Server/CMakeFiles/LabServer.dir/Server.cpp.o: CXX_COMPILER__LabServer_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/Server/Server.cpp || cmake_object_order_depends_target_LabServer
+  DEP_FILE = Server/CMakeFiles/LabServer.dir/Server.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Server/CMakeFiles/LabServer.dir
+  OBJECT_FILE_DIR = Server/CMakeFiles/LabServer.dir
+
+build Server/CMakeFiles/LabServer.dir/__/libs/StringStorage.cpp.o: CXX_COMPILER__LabServer_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/libs/StringStorage.cpp || cmake_object_order_depends_target_LabServer
+  DEP_FILE = Server/CMakeFiles/LabServer.dir/__/libs/StringStorage.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Server/CMakeFiles/LabServer.dir
+  OBJECT_FILE_DIR = Server/CMakeFiles/LabServer.dir/__/libs
+
+build Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Connector.cpp.o: CXX_COMPILER__LabServer_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/MSP/connect/TcpIPv4Connector.cpp || cmake_object_order_depends_target_LabServer
+  DEP_FILE = Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Connector.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Server/CMakeFiles/LabServer.dir
+  OBJECT_FILE_DIR = Server/CMakeFiles/LabServer.dir/__/MSP/connect
+
+build Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Connection.cpp.o: CXX_COMPILER__LabServer_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/MSP/connect/TcpIPv4Connection.cpp || cmake_object_order_depends_target_LabServer
+  DEP_FILE = Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Connection.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Server/CMakeFiles/LabServer.dir
+  OBJECT_FILE_DIR = Server/CMakeFiles/LabServer.dir/__/MSP/connect
+
+build Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Exception.cpp.o: CXX_COMPILER__LabServer_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/MSP/connect/TcpIPv4Exception.cpp || cmake_object_order_depends_target_LabServer
+  DEP_FILE = Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Exception.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Server/CMakeFiles/LabServer.dir
+  OBJECT_FILE_DIR = Server/CMakeFiles/LabServer.dir/__/MSP/connect
+
+build Server/CMakeFiles/LabServer.dir/__/libs/Logger.cpp.o: CXX_COMPILER__LabServer_Debug /Users/makskonevych/Documents/Cpp/Labs/CNLab/libs/Logger.cpp || cmake_object_order_depends_target_LabServer
+  DEP_FILE = Server/CMakeFiles/LabServer.dir/__/libs/Logger.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++11
+  OBJECT_DIR = Server/CMakeFiles/LabServer.dir
+  OBJECT_FILE_DIR = Server/CMakeFiles/LabServer.dir/__/libs
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LabServer
+
+
+#############################################
+# Link the executable Server/LabServer
+
+build Server/LabServer: CXX_EXECUTABLE_LINKER__LabServer_Debug Server/CMakeFiles/LabServer.dir/main.cpp.o Server/CMakeFiles/LabServer.dir/Server.cpp.o Server/CMakeFiles/LabServer.dir/__/libs/StringStorage.cpp.o Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Connector.cpp.o Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Connection.cpp.o Server/CMakeFiles/LabServer.dir/__/MSP/connect/TcpIPv4Exception.cpp.o Server/CMakeFiles/LabServer.dir/__/libs/Logger.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk
+  OBJECT_DIR = Server/CMakeFiles/LabServer.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Server/LabServer
+  TARGET_PDB = LabServer.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build Server/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug/Server && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Server/edit_cache: phony Server/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Server/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug/Server && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/makskonevych/Documents/Cpp/Labs/CNLab -B/Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Server/rebuild_cache: phony Server/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Target aliases.
+
+build LabClient: phony Client/LabClient
+
+build LabServer: phony Server/LabServer
+
+# =============================================================================
+# Folder targets.
+
+# =============================================================================
+
+#############################################
+# Folder: /Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug
+
+build all: phony Client/all Server/all
+
+# =============================================================================
+
+#############################################
+# Folder: /Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug/Client
+
+build Client/all: phony Client/LabClient
+
+# =============================================================================
+
+#############################################
+# Folder: /Users/makskonevych/Documents/Cpp/Labs/CNLab/cmake-build-debug/Server
+
+build Server/all: phony Server/LabServer
+
+# =============================================================================
+# Built-in targets
+
+
+#############################################
+# Re-run CMake if any of its inputs changed.
+
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../Client/CMakeLists.txt ../Server/CMakeLists.txt /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake
+  pool = console
+
+
+#############################################
+# A missing CMake input file is not an error.
+
+build ../CMakeLists.txt ../Client/CMakeLists.txt ../Server/CMakeLists.txt /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake: phony
+
+
+#############################################
+# Clean all the built files.
+
+build clean: CLEAN
+
+
+#############################################
+# Print all primary targets available.
+
+build help: HELP
+
+
+#############################################
+# Make the all target the default.
+
+default all
