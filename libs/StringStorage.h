@@ -6,18 +6,19 @@
 #define LIBS_STRINGSTORAGE_H_
 
 #define MAX_STRING_L 69
+#define MAX_STRING_N 255
 
 #include <string>
 #include <vector>
 #include <exception>
 
-class StringStorage {
+class StringStorage {   // TODO: make sure it's thread-save
 public:
 
-    explicit StringStorage(int stringNumber);
+    explicit StringStorage();
 
-    using IdType    = uint8_t;
-    using HashType  = uint8_t;
+    using IdType    = int;
+    using HashType  = int;
 
     struct Node
     {
@@ -26,8 +27,14 @@ public:
         std::string data_;
     };
 
+
+    void setNode(const Node& node); // if a node with the same id exists it'll be overridden
+    void addString(std::string s);
+
     Node getById(IdType id);
     void setDataById(IdType id, const std::string& data);
+
+    size_t size();
 
 private:
     std::vector<Node> nodes_;

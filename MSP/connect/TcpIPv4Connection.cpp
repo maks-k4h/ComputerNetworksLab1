@@ -9,6 +9,7 @@
 #include <thread>
 #include <sys/ioctl.h>
 #include <unistd.h>
+#include <sstream>
 
 TcpIPv4Connection::TcpIPv4Connection(int fd, Logger *logger)
 : fd_{fd}, connected_{true}, logger_{logger}
@@ -26,7 +27,7 @@ void TcpIPv4Connection::close()
     {
         ::close(fd_);
         connected_ = false;
-        logStatus("Closed connection on " + std::to_string(fd_) + ".");
+        logStatus("Closed the connection.");
     }
 }
 
@@ -54,7 +55,7 @@ void TcpIPv4Connection::send(const std::string& message)
         sent += a;
     }
 
-    logStatus("Sent <<<" + message + ">>> from socket " + std::to_string(fd_) + ".");
+    logStatus("Sent <<<" + message + ">>>.");
 }
 
 std::string TcpIPv4Connection::receive(int len)
@@ -73,16 +74,13 @@ std::string TcpIPv4Connection::receive(int len)
 
     while (len > 0)
     {
-        int a = (int)::recv(fd_, buff, std::min(len, buffSize - 1), 0); // leave at leas one free byte in buff
+        int a = (int)::recv(fd_, buff, std::min(len, buffSize), 0);
 
         if (a == 0)
         {
-            std::string em = "recv(" + std::to_string(fd_) + ", "
-                    + "<buffer>, " + std::to_string(len) + ", 0 failed. "
-                    + "Returned value =" + std::to_string(a) + " — the intended"
-                    + " sender has closed the connection.";
-            logError(em);
-            throw TcpIPv4Exception(em);
+            std::string em = "The intended sender has closed the connection.";
+            logStatus(em);
+            throw TcpIPv4ClosedConnectionException(em);
         }
         if (a < 0)
         {
@@ -93,12 +91,11 @@ std::string TcpIPv4Connection::receive(int len)
             throw TcpIPv4Exception(em);
         }
 
-        buff[a] = 0; // making a c-string of the proper length
-        res += buff;
+        res += std::string(buff, a);
         len -= a;
     }
 
-    logStatus("Received <<<" + res + ">>> from socket " + std::to_string(fd_) + ".");
+    logStatus("Received <<<" + res + ">>>.");
 
     return res;
 }
@@ -144,15 +141,13 @@ std::string TcpIPv4Connection::receive(bool blocking, std::chrono::nanoseconds t
 
     while (count > 0)
     {
-        int a = (int)::recv(fd_, buff, buffSize - 1, 0); // leave at leas one free byte in buff
+        int a = (int)::recv(fd_, buff, buffSize, 0);
 
         if (a == 0)
         {
-            std::string em = "recv(<timeout>) failed. "
-                     "Returned value =" + std::to_string(a) + " — the intended "
-                     "sender has closed the connection.";
-            logError(em);
-            throw TcpIPv4Exception(em);
+            std::string em = "The intended sender has closed the connection.";
+            logStatus(em);
+            throw TcpIPv4ClosedConnectionException(em);
         }
         if (a < 0)
         {
@@ -162,27 +157,36 @@ std::string TcpIPv4Connection::receive(bool blocking, std::chrono::nanoseconds t
             throw TcpIPv4Exception(em);
         }
 
-        buff[a] = 0; // making a c-string of the proper length
-        res += buff;
+        res += std::string(buff, a);
 
         ioctl(fd_, FIONREAD, &count); // checking if there is any data to receive
     }
 
-    logStatus("Received <<<" + res + ">>> from socket " + std::to_string(fd_) + ".");
+    logStatus("Received <<<" + res + ">>>.");
 
     return res;
 }
 
+std::string thToStr()  // just helper
+{
+    auto id = std::this_thread::get_id();
+    std::stringstream ss;
+    ss << id;
+    return ss.str();
+}
+
 void TcpIPv4Connection::logStatus(const std::string& s)
 {
+    auto supplement = s + " Socket " + std::to_string(fd_) + ", thread id: " + thToStr() + ".";
     if (logger_)
-        logger_->logStatus(s);
+        logger_->logStatus(supplement);
 }
 
 void TcpIPv4Connection::logError(const std::string& s)
 {
+    auto supplement = s + " Socket " + std::to_string(fd_) + ", thread id: " + thToStr() + ".";
     if (logger_)
-        logger_->logError(s);
+        logger_->logError(supplement);
 }
 
 TcpIPv4Connection::TcpIPv4Connection(TcpIPv4Connection&& that) noexcept

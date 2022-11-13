@@ -10,6 +10,7 @@
 
 #include "../libs/StringStorage.h"
 #include "../libs/Logger.h"
+#include "../MSP/MspConnection.h"
 
 class Client {
 public:
@@ -20,7 +21,12 @@ public:
 private:
     StringStorage stringStorage_;
     Logger logger_;
-};
 
+    void process(std::string userCommand);
+
+    void update(MspConnection&);
+
+    void renderStrings();
+};
 
 #endif //CLIENT_CLIENT_H_

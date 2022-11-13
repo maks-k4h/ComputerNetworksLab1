@@ -8,6 +8,7 @@
 #include <string>
 #include "../../libs/Logger.h"
 #include "TcpIPv4Exception.h"
+#include "TcpIPv4ClosedConnectionException.h"
 #include <chrono>
 
 

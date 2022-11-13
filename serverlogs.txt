@@ -164,3 +164,1755 @@ STATUS Sat Nov 12 22:01:16 2022
 	Received <<<HandshakeResponse>>> from socket 4.
 STATUS Sat Nov 12 22:01:16 2022
 	Closed connection on 4.
+STATUS Sun Nov 13 15:21:49 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 15:21:49 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 15:21:58 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.53. The created file descriptor is 4.
+STATUS Sun Nov 13 15:21:58 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:21:58 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:21:59 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:21:59 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:05 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.54. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:05 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:05 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:05 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:05 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:18 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.55. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:18 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:18 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:18 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:18 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:25 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.56. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:25 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:25 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:25 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:25 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:26 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.57. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:26 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:26 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:26 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:26 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:27 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.58. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:27 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:27 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:27 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:27 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:37 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.60. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:37 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:37 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:37 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:37 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:38 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.61. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:38 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:38 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:38 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:38 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:39 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.62. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:39 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:39 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:39 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:39 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:40 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.63. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:40 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:40 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:41 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:41 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:41 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.64. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:41 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:41 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:41 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:41 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:42 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.65. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:42 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:42 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:42 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:42 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:43 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.66. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:43 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:43 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:43 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:43 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:44 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.67. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:44 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:44 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:44 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:44 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:44 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.68. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:44 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:44 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:45 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:45 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:45 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:45 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.69. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:45 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:45 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:45 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:45 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:45 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:45 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.70. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:45 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:45 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:45 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:45 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:45 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:45 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.71. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:45 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:45 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:45 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:45 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:45 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:46 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.72. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:46 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:46 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:46 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:46 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:46 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:46 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.73. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:46 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:46 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:46 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:46 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:46 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:46 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.74. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:46 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:46 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:46 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:46 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:46 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:46 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.75. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:46 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:46 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:47 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:47 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:47 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:47 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.76. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:47 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:47 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:47 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:47 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:47 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:47 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.77. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:47 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:47 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:47 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:47 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:47 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:47 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.78. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:47 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:47 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:47 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:47 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:47 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:48 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.79. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:48 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:48 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:48 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:48 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:48 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:48 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.80. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:48 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:48 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:48 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:48 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:48 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:48 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.81. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:48 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:48 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:48 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:48 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:48 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:48 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.82. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:48 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:48 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:49 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:49 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:49 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:49 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.83. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:49 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:49 2022
+	Sent <<<MspHandshake>>> from socket 4.
+ERROR Sun Nov 13 15:22:49 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:49 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:22:49 2022
+	recv(4, <buffer>, 18, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 15:22:49 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.84. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:49 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:49 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:49 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:49 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:50 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.85. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:50 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:50 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:50 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:50 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:50 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.86. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:50 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:50 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:51 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:51 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:22:51 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.87. The created file descriptor is 4.
+STATUS Sun Nov 13 15:22:51 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:22:51 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:22:51 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:22:51 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:23:04 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.88. The created file descriptor is 4.
+STATUS Sun Nov 13 15:23:04 2022
+	New connection will be processed on thread 0x16efb7000
+STATUS Sun Nov 13 15:23:04 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:23:04 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:23:04 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:23:58 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 15:23:58 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 15:24:19 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.89. The created file descriptor is 4.
+STATUS Sun Nov 13 15:24:19 2022
+	New connection will be processed on thread 0x16b51b000
+STATUS Sun Nov 13 15:24:19 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:24:19 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:24:19 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:24:23 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.90. The created file descriptor is 4.
+STATUS Sun Nov 13 15:24:23 2022
+	New connection will be processed on thread 0x16b51b000
+STATUS Sun Nov 13 15:24:23 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:24:24 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:24:24 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:24:30 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.91. The created file descriptor is 4.
+STATUS Sun Nov 13 15:24:30 2022
+	New connection will be processed on thread 0x16b51b000
+STATUS Sun Nov 13 15:24:30 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:24:31 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:24:31 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:24:31 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.92. The created file descriptor is 4.
+STATUS Sun Nov 13 15:24:31 2022
+	New connection will be processed on thread 0x16b51b000
+STATUS Sun Nov 13 15:24:31 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:24:31 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:24:31 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:24:32 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.93. The created file descriptor is 4.
+STATUS Sun Nov 13 15:24:32 2022
+	New connection will be processed on thread 0x16b51b000
+STATUS Sun Nov 13 15:24:32 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:24:32 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:24:32 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:24:33 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.94. The created file descriptor is 4.
+STATUS Sun Nov 13 15:24:33 2022
+	New connection will be processed on thread 0x16b51b000
+STATUS Sun Nov 13 15:24:33 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:24:33 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 15:24:33 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 15:25:31 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 15:25:31 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 15:25:34 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.108. The created file descriptor is 4.
+STATUS Sun Nov 13 15:25:34 2022
+	New connection will be processed on thread 0x16fd3f000
+STATUS Sun Nov 13 15:25:34 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:25:34 2022
+	Received <<<GET / HTTP/1.1
+Ho>>> from socket 4.
+ERROR Sun Nov 13 15:25:34 2022
+	Handshake failed.
+STATUS Sun Nov 13 15:25:34 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:25:34 2022
+	Handshake failed.
+STATUS Sun Nov 13 15:25:34 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.110. The created file descriptor is 4.
+STATUS Sun Nov 13 15:25:34 2022
+	New connection will be processed on thread 0x16fd3f000
+STATUS Sun Nov 13 15:25:34 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:25:34 2022
+	Received <<<GET / HTTP/1.1
+Ho>>> from socket 4.
+ERROR Sun Nov 13 15:25:34 2022
+	Handshake failed.
+STATUS Sun Nov 13 15:25:34 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:25:34 2022
+	Handshake failed.
+STATUS Sun Nov 13 15:25:34 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.112. The created file descriptor is 4.
+STATUS Sun Nov 13 15:25:34 2022
+	New connection will be processed on thread 0x16fd3f000
+STATUS Sun Nov 13 15:25:34 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:25:34 2022
+	Received <<<GET / HTTP/1.1
+Ho>>> from socket 4.
+ERROR Sun Nov 13 15:25:34 2022
+	Handshake failed.
+STATUS Sun Nov 13 15:25:34 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:25:34 2022
+	Handshake failed.
+STATUS Sun Nov 13 15:25:38 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.114. The created file descriptor is 4.
+STATUS Sun Nov 13 15:25:38 2022
+	New connection will be processed on thread 0x16fd3f000
+STATUS Sun Nov 13 15:25:38 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:25:38 2022
+	Received <<<GET / HTTP/1.1
+Ho>>> from socket 4.
+ERROR Sun Nov 13 15:25:38 2022
+	Handshake failed.
+STATUS Sun Nov 13 15:25:38 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:25:38 2022
+	Handshake failed.
+STATUS Sun Nov 13 15:25:38 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.116. The created file descriptor is 4.
+STATUS Sun Nov 13 15:25:38 2022
+	New connection will be processed on thread 0x16fd3f000
+STATUS Sun Nov 13 15:25:38 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:25:38 2022
+	Received <<<GET / HTTP/1.1
+Ho>>> from socket 4.
+ERROR Sun Nov 13 15:25:38 2022
+	Handshake failed.
+STATUS Sun Nov 13 15:25:38 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:25:38 2022
+	Handshake failed.
+STATUS Sun Nov 13 15:25:38 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.118. The created file descriptor is 4.
+STATUS Sun Nov 13 15:25:38 2022
+	New connection will be processed on thread 0x16fd3f000
+STATUS Sun Nov 13 15:25:38 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 15:25:38 2022
+	Received <<<GET / HTTP/1.1
+Ho>>> from socket 4.
+ERROR Sun Nov 13 15:25:38 2022
+	Handshake failed.
+STATUS Sun Nov 13 15:25:38 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 15:25:38 2022
+	Handshake failed.
+STATUS Sun Nov 13 16:12:21 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:12:21 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:12:33 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.181. The created file descriptor is 4.
+STATUS Sun Nov 13 16:12:33 2022
+	New connection will be processed on thread 0x16d3ef000
+STATUS Sun Nov 13 16:12:33 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:12:34 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:12:37 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:12:37 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:14:24 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:14:24 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:14:30 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.187. The created file descriptor is 4.
+STATUS Sun Nov 13 16:14:30 2022
+	New connection will be processed on thread 0x16b5a7000
+STATUS Sun Nov 13 16:14:30 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:14:30 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:15:02 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:15:02 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:15:17 2022
+	Sent <<<Update	0õQk>>> from socket 4.
+STATUS Sun Nov 13 16:17:22 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:17:22 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:17:25 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.188. The created file descriptor is 4.
+STATUS Sun Nov 13 16:17:25 2022
+	New connection will be processed on thread 0x16d353000
+STATUS Sun Nov 13 16:17:25 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:17:25 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:17:25 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:17:25 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:17:25 2022
+	Sent <<<Update	@µ,m>>> from socket 4.
+STATUS Sun Nov 13 16:17:25 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:17:25 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:17:25 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:17:25 2022
+	Sent <<<NodeHope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 16:17:25 2022
+	Sent <<<NodeI have come to lead you to the other shore;>>> from socket 4.
+STATUS Sun Nov 13 16:17:25 2022
+	Sent <<<Nodeinto eternal darkness; into fire and into ice.>>> from socket 4.
+STATUS Sun Nov 13 16:17:25 2022
+	Sent <<<NodeBefore me there were no created things>>> from socket 4.
+ERROR Sun Nov 13 16:17:25 2022
+	sent(4,NodeBut those that last foreverâ€”as do I.,44, 0) failed.
+STATUS Sun Nov 13 16:17:37 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:17:37 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:17:39 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.189. The created file descriptor is 4.
+STATUS Sun Nov 13 16:17:39 2022
+	New connection will be processed on thread 0x16cf6b000
+STATUS Sun Nov 13 16:17:39 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:17:39 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:17:39 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:17:39 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:17:39 2022
+	Sent <<<Update	@5îl>>> from socket 4.
+STATUS Sun Nov 13 16:17:39 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:17:39 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:17:39 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:17:39 2022
+	Sent <<<NodeHope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 16:17:39 2022
+	Sent <<<NodeI have come to lead you to the other shore;>>> from socket 4.
+ERROR Sun Nov 13 16:17:39 2022
+	sent(4,Nodeinto eternal darkness; into fire and into ice.,52, 0) failed.
+STATUS Sun Nov 13 16:17:39 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 16:17:39 2022
+	sent(4,Nodeinto eternal darkness; into fire and into ice.,52, 0) failed.
+STATUS Sun Nov 13 16:18:51 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:18:51 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:18:54 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.194. The created file descriptor is 4.
+STATUS Sun Nov 13 16:18:54 2022
+	New connection will be processed on thread 0x16dceb000
+STATUS Sun Nov 13 16:18:54 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:19:01 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:19:08 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:19:08 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:19:45 2022
+	Sent <<<Update	05Æm>>> from socket 4.
+STATUS Sun Nov 13 16:20:18 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:20:18 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:20:21 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.201. The created file descriptor is 4.
+STATUS Sun Nov 13 16:20:21 2022
+	New connection will be processed on thread 0x16d8df000
+STATUS Sun Nov 13 16:20:21 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:20:25 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:20:36 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:20:36 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:22:24 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:22:24 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:22:30 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:22:30 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:22:41 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:22:41 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:22:43 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:22:43 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:22:45 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:22:45 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:22:49 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:22:49 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:22:55 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:22:55 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:23:05 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:23:05 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:23:13 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:23:13 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:23:22 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.224. The created file descriptor is 4.
+STATUS Sun Nov 13 16:23:22 2022
+	New connection will be processed on thread 0x16afb3000
+STATUS Sun Nov 13 16:23:22 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:23:26 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:23:38 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:23:38 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:24:43 2022
+	Sent <<<Update	0µòj>>> from socket 4.
+STATUS Sun Nov 13 16:24:59 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:24:59 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:25:03 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.248. The created file descriptor is 4.
+STATUS Sun Nov 13 16:25:03 2022
+	New connection will be processed on thread 0x16bc97000
+STATUS Sun Nov 13 16:25:03 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:25:05 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:25:14 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:25:14 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:27:18 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:27:18 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:27:21 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.253. The created file descriptor is 4.
+STATUS Sun Nov 13 16:27:21 2022
+	New connection will be processed on thread 0x16f72b000
+STATUS Sun Nov 13 16:27:21 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:27:24 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:27:33 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:27:33 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:28:46 2022
+	Sent <<<ÿ}.wUpdate	>>> from socket 4.
+STATUS Sun Nov 13 16:29:51 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:29:51 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:29:53 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.254. The created file descriptor is 4.
+STATUS Sun Nov 13 16:29:53 2022
+	New connection will be processed on thread 0x16f1ab000
+STATUS Sun Nov 13 16:29:53 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:29:53 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:29:53 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:29:53 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:29:53 2022
+	Sent <<<ÿ}.ÏUpdate	>>> from socket 4.
+STATUS Sun Nov 13 16:29:53 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:29:53 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:29:53 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:29:53 2022
+	Sent <<<NodeHope not ever to see Heaven.>>> from socket 4.
+ERROR Sun Nov 13 16:29:53 2022
+	sent(4,NodeI have come to lead you to the other shore;,49, 0) failed.
+STATUS Sun Nov 13 16:31:41 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:31:41 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:31:46 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.192.255. The created file descriptor is 4.
+STATUS Sun Nov 13 16:31:46 2022
+	New connection will be processed on thread 0x16d483000
+STATUS Sun Nov 13 16:31:46 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:31:46 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:31:46 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:31:46 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:31:46 2022
+	Sent <<<ÿ}®¡Update	>>> from socket 4.
+STATUS Sun Nov 13 16:31:46 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:31:46 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:31:46 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:31:46 2022
+	Sent <<<NodeHope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 16:32:15 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:32:15 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:32:17 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.4. The created file descriptor is 4.
+STATUS Sun Nov 13 16:32:17 2022
+	New connection will be processed on thread 0x16b1db000
+STATUS Sun Nov 13 16:32:17 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:32:20 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Sent <<<ÿ}.ÌUpdate	>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Sent <<<NodeHope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Sent <<<NodeI have come to lead you to the other shore;>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Sent <<<Nodeinto eternal darkness; into fire and into ice.>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Sent <<<NodeBefore me there were no created things>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Sent <<<NodeBut those that last foreverâ€”as do I.>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Sent <<<NodeAbandon all hope you who enter here.>>> from socket 4.
+STATUS Sun Nov 13 16:32:32 2022
+	Sent strings successfully.
+STATUS Sun Nov 13 16:33:01 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:33:01 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:33:04 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:33:04 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:33:24 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:33:24 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:33:35 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:33:35 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:33:45 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:33:45 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:34:02 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:34:02 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:34:06 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.23. The created file descriptor is 4.
+STATUS Sun Nov 13 16:34:06 2022
+	New connection will be processed on thread 0x16f6ab000
+STATUS Sun Nov 13 16:34:06 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:34:09 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:34:19 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:34:19 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:35:08 2022
+	Sent <<<ÿ}.Update	>>> from socket 4.
+STATUS Sun Nov 13 16:35:11 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:35:12 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:35:12 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:35:23 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:35:23 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:35:30 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.29. The created file descriptor is 4.
+STATUS Sun Nov 13 16:35:30 2022
+	New connection will be processed on thread 0x16dc5f000
+STATUS Sun Nov 13 16:35:30 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:35:32 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+ERROR Sun Nov 13 16:35:38 2022
+	Cannot accept request on socket with file descriptor 3.
+STATUS Sun Nov 13 16:35:38 2022
+	Stopped listening on socket 3
+STATUS Sun Nov 13 16:36:00 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:36:00 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:36:03 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.35. The created file descriptor is 4.
+STATUS Sun Nov 13 16:36:03 2022
+	New connection will be processed on thread 0x16fcf3000
+STATUS Sun Nov 13 16:36:03 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:36:09 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:36:20 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:36:20 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:38:48 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:38:48 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:39:17 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:39:17 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:39:20 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:39:20 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:39:22 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:39:22 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:39:24 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:39:24 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:39:30 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.54. The created file descriptor is 4.
+STATUS Sun Nov 13 16:39:30 2022
+	New connection will be processed on thread 0x16d503000
+STATUS Sun Nov 13 16:39:30 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:39:30 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:39:35 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:39:35 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:40:38 2022
+	Sent <<<Update	>>> from socket 4.
+STATUS Sun Nov 13 16:41:56 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:41:56 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:41:59 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.60. The created file descriptor is 4.
+STATUS Sun Nov 13 16:41:59 2022
+	New connection will be processed on thread 0x16db67000
+STATUS Sun Nov 13 16:41:59 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:42:00 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:42:00 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:42:00 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:42:00 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 16:42:00 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:42:00 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:42:00 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:42:00 2022
+	Sent <<<NodeHope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 16:42:00 2022
+	Sent <<<NodeI have come to lead you to the other shore;>>> from socket 4.
+STATUS Sun Nov 13 16:42:00 2022
+	Sent <<<Nodeinto eternal darkness; into fire and into ice.>>> from socket 4.
+STATUS Sun Nov 13 16:42:00 2022
+	Sent <<<NodeBefore me there were no created things>>> from socket 4.
+STATUS Sun Nov 13 16:43:21 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:43:21 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:43:25 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.69. The created file descriptor is 4.
+STATUS Sun Nov 13 16:43:25 2022
+	New connection will be processed on thread 0x16b2ab000
+STATUS Sun Nov 13 16:43:25 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:43:25 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:43:25 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:43:25 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:43:25 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 16:43:25 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:43:25 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:43:25 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:43:25 2022
+	Sent <<<NodeHope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 16:43:25 2022
+	Sent <<<NodeI have come to lead you to the other shore;>>> from socket 4.
+ERROR Sun Nov 13 16:43:25 2022
+	sent(4,Nodeinto eternal darkness; into fire and into ice.,52, 0) failed.
+STATUS Sun Nov 13 16:43:42 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:43:42 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:43:45 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.74. The created file descriptor is 4.
+STATUS Sun Nov 13 16:43:45 2022
+	New connection will be processed on thread 0x16afdb000
+STATUS Sun Nov 13 16:43:45 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:43:45 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:43:45 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:43:45 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:43:45 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 16:43:45 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:43:45 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:43:45 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:43:45 2022
+	Sent <<<NodeHope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 16:43:51 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:43:51 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:43:59 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.79. The created file descriptor is 4.
+STATUS Sun Nov 13 16:43:59 2022
+	New connection will be processed on thread 0x16ef83000
+STATUS Sun Nov 13 16:43:59 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:44:00 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Sent <<<NodeHope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Sent <<<NodeI have come to lead you to the other shore;>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Sent <<<Nodeinto eternal darkness; into fire and into ice.>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Sent <<<NodeBefore me there were no created things>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Sent <<<NodeBut those that last foreverâ€”as do I.>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Sent <<<NodeAbandon all hope you who enter here.>>> from socket 4.
+STATUS Sun Nov 13 16:44:07 2022
+	Sent strings successfully.
+ERROR Sun Nov 13 16:44:55 2022
+	recv(4, <buffer>, 1, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 16:44:55 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 16:44:55 2022
+	recv(4, <buffer>, 1, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 16:45:49 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:45:49 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:45:54 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.83. The created file descriptor is 4.
+STATUS Sun Nov 13 16:45:54 2022
+	New connection will be processed on thread 0x16b577000
+STATUS Sun Nov 13 16:45:54 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:45:55 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Sent <<<NodeHope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Sent <<<NodeI have come to lead you to the other shore;>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Sent <<<Nodeinto eternal darkness; into fire and into ice.>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Sent <<<NodeBefore me there were no created things>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Sent <<<NodeBut those that last foreverâ€”as do I.>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Sent <<<NodeAbandon all hope you who enter here.>>> from socket 4.
+STATUS Sun Nov 13 16:46:01 2022
+	Sent strings successfully.
+ERROR Sun Nov 13 16:46:11 2022
+	recv(4, <buffer>, 1, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 16:46:11 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 16:46:11 2022
+	recv(4, <buffer>, 1, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 16:46:56 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:46:56 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:47:02 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.86. The created file descriptor is 4.
+STATUS Sun Nov 13 16:47:02 2022
+	New connection will be processed on thread 0x16fd1b000
+STATUS Sun Nov 13 16:47:02 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:47:03 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Sent <<<NodeHope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Sent <<<NodeI have come to lead you to the other shore;>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Sent <<<Nodeinto eternal darkness; into fire and into ice.>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Sent <<<NodeBefore me there were no created things>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Sent <<<NodeBut those that last foreverâ€”as do I.>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Sent <<<NodeAbandon all hope you who enter here.>>> from socket 4.
+STATUS Sun Nov 13 16:47:08 2022
+	Sent strings successfully.
+ERROR Sun Nov 13 16:47:27 2022
+	recv(4, <buffer>, 1, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 16:47:27 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 16:47:27 2022
+	recv(4, <buffer>, 1, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 16:50:42 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.91. The created file descriptor is 4.
+STATUS Sun Nov 13 16:50:42 2022
+	New connection will be processed on thread 0x16fd1b000
+STATUS Sun Nov 13 16:50:42 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:50:42 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+ERROR Sun Nov 13 16:50:46 2022
+	recv(4, <buffer>, 1, 0 failed. Returned value =0 â€” the intended sender has closed the connection.
+STATUS Sun Nov 13 16:50:46 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 16:50:46 2022
+	recv(4, <buffer>, 1, 0 failed. Returned value =0 â€” the intended sender has closed the connection.
+STATUS Sun Nov 13 16:50:47 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.95. The created file descriptor is 4.
+STATUS Sun Nov 13 16:50:47 2022
+	New connection will be processed on thread 0x16fd1b000
+STATUS Sun Nov 13 16:50:47 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:50:47 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+ERROR Sun Nov 13 16:50:52 2022
+	recv(4, <buffer>, 1, 0 failed. Returned value =0 â€” the intended sender has closed the connection.
+STATUS Sun Nov 13 16:50:52 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 16:50:52 2022
+	recv(4, <buffer>, 1, 0 failed. Returned value =0 â€” the intended sender has closed the connection.
+STATUS Sun Nov 13 16:51:01 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:51:01 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:51:06 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.99. The created file descriptor is 4.
+STATUS Sun Nov 13 16:51:06 2022
+	New connection will be processed on thread 0x16dc7f000
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<NodeWe must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<Nodefor it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<NodeHope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<NodeI have come to lead you to the other shore;>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<Nodeinto eternal darkness; into fire and into ice.>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<NodeBefore me there were no created things>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<NodeBut those that last foreverâ€”as do I.>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<NodeAbandon all hope you who enter here.>>> from socket 4.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent strings successfully.
+ERROR Sun Nov 13 16:51:06 2022
+	recv(4, <buffer>, 1, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 16:51:06 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 16:51:06 2022
+	recv(4, <buffer>, 1, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 16:52:05 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:52:05 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:52:09 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.102. The created file descriptor is 4.
+STATUS Sun Nov 13 16:52:09 2022
+	New connection will be processed on thread 0x16b3e7000
+STATUS Sun Nov 13 16:52:09 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:52:09 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:52:09 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:52:09 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:52:26 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 16:53:36 2022
+	Starting server on thread 0x2060f2500.
+ERROR Sun Nov 13 16:53:36 2022
+	bind(..) failed.
+STATUS Sun Nov 13 16:54:07 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:54:07 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:54:13 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.107. The created file descriptor is 4.
+STATUS Sun Nov 13 16:54:13 2022
+	New connection will be processed on thread 0x16d0c3000
+STATUS Sun Nov 13 16:54:13 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:54:13 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:54:13 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:54:13 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:54:19 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 16:54:47 2022
+	Sent <<<NodeBut the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:56:35 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 16:56:35 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 16:56:38 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.109. The created file descriptor is 4.
+STATUS Sun Nov 13 16:56:38 2022
+	New connection will be processed on thread 0x16b89f000
+STATUS Sun Nov 13 16:56:38 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 16:56:38 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 16:56:38 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 16:56:38 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 16:56:38 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 16:56:38 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 16:56:38 2022
+	Sent <<<Node #We must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 16:56:38 2022
+	Sent <<<Node %for it is not permitted that we stay.>>> from socket 4.
+ERROR Sun Nov 13 16:56:38 2022
+	sent(4,Node Hope not ever to see Heaven.,36, 0) failed.
+STATUS Sun Nov 13 17:02:22 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 17:02:22 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 17:02:25 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.110. The created file descriptor is 4.
+STATUS Sun Nov 13 17:02:25 2022
+	New connection will be processed on thread 0x16da63000
+STATUS Sun Nov 13 17:02:25 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 17:02:25 2022
+	Received <<<HandshakeResponseHandshakeResponse>>> from socket 4.
+ERROR Sun Nov 13 17:02:25 2022
+	Handshake failed.
+STATUS Sun Nov 13 17:02:25 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 17:02:25 2022
+	Handshake failed.
+STATUS Sun Nov 13 17:02:49 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.111. The created file descriptor is 4.
+STATUS Sun Nov 13 17:02:49 2022
+	New connection will be processed on thread 0x16da63000
+STATUS Sun Nov 13 17:02:49 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 17:02:50 2022
+	Received <<<HandshakeResponseHandshakeResponse>>> from socket 4.
+ERROR Sun Nov 13 17:02:50 2022
+	Handshake failed.
+STATUS Sun Nov 13 17:02:50 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 17:02:50 2022
+	Handshake failed.
+STATUS Sun Nov 13 17:03:20 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.115. The created file descriptor is 4.
+STATUS Sun Nov 13 17:03:20 2022
+	New connection will be processed on thread 0x16da63000
+STATUS Sun Nov 13 17:03:20 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 17:04:02 2022
+	Received <<<HandshakeResponseHandshakeResponse>>> from socket 4.
+ERROR Sun Nov 13 17:04:02 2022
+	Handshake failed.
+STATUS Sun Nov 13 17:04:02 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 17:04:02 2022
+	Handshake failed.
+STATUS Sun Nov 13 17:36:34 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 17:36:34 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 17:36:36 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.129. The created file descriptor is 4.
+STATUS Sun Nov 13 17:36:36 2022
+	New connection will be processed on thread 0x16d2a3000
+STATUS Sun Nov 13 17:36:36 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent <<<Node #We must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent <<<Node %for it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent <<<Node Hope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent <<<Node &Before me there were no created things>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent <<<Node &But those that last foreverâ€”as do I.>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>> from socket 4.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent strings successfully.
+ERROR Sun Nov 13 17:36:37 2022
+	recv(4, <buffer>, 1, 0 failed. Returned value =0 â€” the intended sender has closed the connection.
+STATUS Sun Nov 13 17:36:37 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 17:36:37 2022
+	recv(4, <buffer>, 1, 0 failed. Returned value =0 â€” the intended sender has closed the connection.
+STATUS Sun Nov 13 17:38:35 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 17:38:35 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 17:40:15 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 17:40:15 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.130. The created file descriptor is 4.
+STATUS Sun Nov 13 17:40:19 2022
+	New connection will be processed on thread 0x16d157000
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<Node #We must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<Node %for it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<Node Hope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<Node &Before me there were no created things>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<Node &But those that last foreverâ€”as do I.>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>> from socket 4.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent strings successfully.
+ERROR Sun Nov 13 17:40:19 2022
+	recv(4, <buffer>, 1, 0 failed. Returned value =0 â€” the intended sender has closed the connection.
+STATUS Sun Nov 13 17:40:19 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 17:40:19 2022
+	recv(4, <buffer>, 1, 0 failed. Returned value =0 â€” the intended sender has closed the connection.
+STATUS Sun Nov 13 17:41:00 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 17:41:00 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 17:41:03 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.131. The created file descriptor is 4.
+STATUS Sun Nov 13 17:41:03 2022
+	New connection will be processed on thread 0x16da2b000
+STATUS Sun Nov 13 17:41:03 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent <<<Node #We must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent <<<Node %for it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent <<<Node Hope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent <<<Node &Before me there were no created things>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent <<<Node &But those that last foreverâ€”as do I.>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>> from socket 4.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent strings successfully.
+ERROR Sun Nov 13 17:41:04 2022
+	The intended sender has closed the connection.
+STATUS Sun Nov 13 17:41:04 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 17:41:04 2022
+	The intended sender has closed the connection.
+STATUS Sun Nov 13 17:41:27 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 17:41:27 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.132. The created file descriptor is 4.
+STATUS Sun Nov 13 17:41:30 2022
+	New connection will be processed on thread 0x16d79b000
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<Node #We must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<Node %for it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<Node Hope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<Node &Before me there were no created things>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<Node &But those that last foreverâ€”as do I.>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>> from socket 4.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent strings successfully.
+STATUS Sun Nov 13 17:41:30 2022
+	The intended sender has closed the connection.
+STATUS Sun Nov 13 17:41:30 2022
+	Closed connection on 4.
+ERROR Sun Nov 13 17:41:30 2022
+	The intended sender has closed the connection.
+STATUS Sun Nov 13 17:48:17 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 17:48:17 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.136. The created file descriptor is 4.
+STATUS Sun Nov 13 17:48:20 2022
+	New connection will be processed on thread 0x16dbf7000
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<MspHandshake>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<HandshakeResponse>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Update>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<UpdateResponse	>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<Node #We must go deeper into greater pain>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<Node %for it is not permitted that we stay.>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<Node Hope not ever to see Heaven.>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<Node &Before me there were no created things>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<Node &But those that last foreverâ€”as do I.>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>> from socket 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent strings successfully.
+STATUS Sun Nov 13 17:48:20 2022
+	The intended sender has closed the connection.
+STATUS Sun Nov 13 17:48:20 2022
+	Closed connection on 4.
+STATUS Sun Nov 13 17:48:20 2022
+	Closed the connection.
+STATUS Sun Nov 13 18:01:22 2022
+	Starting server on thread 0x2060f2500.
+STATUS Sun Nov 13 18:01:22 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Sun Nov 13 18:01:25 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.144. The created file descriptor is 4.
+STATUS Sun Nov 13 18:01:25 2022
+	New connection will be processed on thread 0x16cfeb000
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Update>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<UpdateResponse	>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<Node #We must go deeper into greater pain>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<Node %for it is not permitted that we stay.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<Node Hope not ever to see Heaven.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<Node &Before me there were no created things>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<Node &But those that last foreverâ€”as do I.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent strings successfully. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	The intended sender has closed the connection. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:01:25 2022
+	Closed the connection. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:15 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.145. The created file descriptor is 4.
+STATUS Sun Nov 13 18:02:15 2022
+	New connection will be processed on thread 0x16cfeb000
+STATUS Sun Nov 13 18:02:15 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:15 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:15 2022
+	Received <<<>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:15 2022
+	Received <<<Update>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:15 2022
+	Sent <<<UpdateResponse	>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:15 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:15 2022
+	Sent <<<Node #We must go deeper into greater pain>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:15 2022
+	Sent <<<Node %for it is not permitted that we stay.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:16 2022
+	Sent <<<Node Hope not ever to see Heaven.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:16 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:16 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:16 2022
+	Sent <<<Node &Before me there were no created things>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:16 2022
+	Sent <<<Node &But those that last foreverâ€”as do I.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:16 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:16 2022
+	Sent strings successfully. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:16 2022
+	The intended sender has closed the connection. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:16 2022
+	Closed the connection. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:16 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.146. The created file descriptor is 4.
+STATUS Sun Nov 13 18:02:16 2022
+	New connection will be processed on thread 0x16cfeb000
+STATUS Sun Nov 13 18:02:16 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Update>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent <<<UpdateResponse	>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent <<<Node #We must go deeper into greater pain>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent <<<Node %for it is not permitted that we stay.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent <<<Node Hope not ever to see Heaven.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent <<<Node &Before me there were no created things>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent <<<Node &But those that last foreverâ€”as do I.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent strings successfully. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	The intended sender has closed the connection. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:17 2022
+	Closed the connection. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.193.147. The created file descriptor is 4.
+STATUS Sun Nov 13 18:02:18 2022
+	New connection will be processed on thread 0x16cfeb000
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Update>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<UpdateResponse	>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<Node #We must go deeper into greater pain>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<Node %for it is not permitted that we stay.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<Node Hope not ever to see Heaven.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<Node &Before me there were no created things>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<Node &But those that last foreverâ€”as do I.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>>. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent strings successfully. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	The intended sender has closed the connection. Socket 4, thread id: 0x16cfeb000.
+STATUS Sun Nov 13 18:02:18 2022
+	Closed the connection. Socket 4, thread id: 0x16cfeb000.

@@ -13,4 +13,6 @@ add_executable(LabClient
         ../MSP/MspConnection.cpp
         ../MSP/MspConnection.h
         ../MSP/MspException.cpp
-        ../MSP/MspException.h)
+        ../MSP/MspException.h
+        ../MSP/connect/TcpIPv4ClosedConnectionException.cpp
+        ../MSP/connect/TcpIPv4ClosedConnectionException.h)

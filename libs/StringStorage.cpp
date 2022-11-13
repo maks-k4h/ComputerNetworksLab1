@@ -6,11 +6,8 @@
 
 #include <utility>
 
-StringStorage::StringStorage(int stringNumber)
-{
-    for (int i = 0; i < stringNumber; ++i)
-        nodes_.emplace_back(Node{(IdType)i, (HashType)0, ""});
-}
+StringStorage::StringStorage()
+= default;
 
 StringStorage::Node StringStorage::getById(StringStorage::IdType id)
 {
@@ -42,6 +39,38 @@ void StringStorage::setDataById(StringStorage::IdType id, const std::string& dat
 
     v->data_ = data;
     ++v->hash_;
+}
+
+void StringStorage::setNode(const StringStorage::Node& node)
+{
+    try
+    {
+        getById(node.id_);
+        setDataById(node.id_, node.data_);
+    }
+    catch (...)
+    {
+        if (nodes_.size() >= MAX_STRING_N)
+            throw StringStorageException("Number of strings overflow.");
+        nodes_.emplace_back(node);
+    }
+}
+
+void StringStorage::addString(std::string s)
+{
+    if (nodes_.empty())
+    {
+        nodes_.emplace_back(Node{0, 0, s});
+    }
+    else
+    {
+        nodes_.emplace_back(Node{(nodes_.end() - 1)->id_ + 1, 0, s});
+    }
+}
+
+size_t StringStorage::size()
+{
+    return nodes_.size();
 }
 
 StringStorageException::StringStorageException(std::string message)

@@ -22,7 +22,8 @@ private:
     Logger logger_;
     StringStorage storage_;
 
-    friend void ProcessConnection(Server*, TcpIPv4Connection); // helper
+    friend void processConnection(Server*, TcpIPv4Connection);
+    friend void processRequest(Server*, MspConnection&);
 
 };
 

@@ -86,3 +86,1325 @@ STATUS Sat Nov 12 22:01:16 2022
 	Sent <<<HandshakeResponse>>> from socket 3.
 STATUS Sat Nov 12 22:01:16 2022
 	Closed connection on 3.
+STATUS Sun Nov 13 15:21:58 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:21:59 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:21:59 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:21:59 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:05 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:05 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:05 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:05 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:18 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:18 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:18 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:18 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:25 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:25 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:25 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:25 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:26 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:26 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:26 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:26 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:27 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:27 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:27 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:27 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:37 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:37 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:37 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:37 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:38 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:38 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:38 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:38 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:39 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:39 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:39 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:39 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:40 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:41 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:41 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:41 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:41 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:41 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:41 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:41 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:42 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:42 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:42 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:42 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:43 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:43 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:43 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:43 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:44 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:44 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:44 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:44 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:44 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:45 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:45 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:45 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:46 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:46 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:46 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:46 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:47 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:47 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:47 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:48 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:48 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:48 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:48 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:49 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:49 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:49 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:49 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:49 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:50 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:50 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:50 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:50 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:50 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:51 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:51 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:51 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:22:51 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:22:51 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:22:51 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:22:51 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:23:04 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:23:04 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:23:04 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:23:04 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:24:19 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:24:19 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:24:19 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:24:19 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:24:23 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:24:24 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:24:24 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:24:24 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:24:30 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:24:31 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:24:31 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:24:31 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:24:31 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:24:31 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:24:31 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:24:31 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:24:32 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:24:32 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:24:32 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:24:32 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 15:24:33 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 15:24:33 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 15:24:33 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 15:24:33 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:12:33 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:12:34 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:12:34 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:12:34 2022
+	Sent <<<Update>>> from socket 3.
+ERROR Sun Nov 13 16:12:55 2022
+	recv(3, <buffer>, 1, 0 failed. Returned value =0 â€” the intended sender has closed the connection.
+STATUS Sun Nov 13 16:12:55 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:14:30 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:14:30 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:14:30 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:14:42 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:15:17 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:15:17 2022
+	Received <<<Update	0õQk>>> from socket 3.
+STATUS Sun Nov 13 16:17:25 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:17:25 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:17:25 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:17:25 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:17:25 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:17:25 2022
+	Received <<<Update	@µ,m>>> from socket 3.
+ERROR Sun Nov 13 16:17:25 2022
+	Wrong command received; Update<num> expected
+STATUS Sun Nov 13 16:17:25 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:17:39 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:17:39 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:17:39 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:17:39 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:17:39 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:17:39 2022
+	Received <<<Update	@5îl>>> from socket 3.
+ERROR Sun Nov 13 16:17:39 2022
+	Wrong command received; Update<num> expected
+STATUS Sun Nov 13 16:17:39 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:18:54 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:19:01 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:19:01 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:19:08 2022
+	Sent <<<Update>>> from socket 3.
+ERROR Sun Nov 13 16:19:28 2022
+	recv(3, <buffer>, 1, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 16:19:28 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:20:21 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:20:25 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:20:25 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:20:36 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:23:22 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:23:26 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:23:26 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:23:38 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:25:03 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:25:05 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:25:05 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:25:14 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:27:21 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:27:24 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:27:24 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:27:33 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:28:53 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:28:53 2022
+	Received <<<ÿ}.wUpd>>> from socket 3.
+ERROR Sun Nov 13 16:29:09 2022
+	Wrong command received; Update<num> expected
+STATUS Sun Nov 13 16:29:11 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:29:53 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:29:53 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:29:53 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:29:53 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:29:53 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:29:53 2022
+	Received <<<ÿ}.ÏUpd>>> from socket 3.
+ERROR Sun Nov 13 16:29:53 2022
+	Wrong command received; Update<num> expected
+STATUS Sun Nov 13 16:29:53 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:31:46 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:31:46 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:31:46 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:31:46 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:31:46 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:31:46 2022
+	Received <<<ÿ}®¡U>>> from socket 3.
+ERROR Sun Nov 13 16:31:46 2022
+	Wrong command received; Update<num> expected
+STATUS Sun Nov 13 16:31:46 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:32:17 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:32:20 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:32:20 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:32:32 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:34:06 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:34:09 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:34:09 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:34:19 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:35:14 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:35:14 2022
+	Received <<<ÿ}.Upd>>> from socket 3.
+ERROR Sun Nov 13 16:35:16 2022
+	Wrong command received; Update<num> expected
+STATUS Sun Nov 13 16:35:16 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:35:30 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:35:32 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:35:32 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:35:41 2022
+	Sent <<<Update>>> from socket 3.
+ERROR Sun Nov 13 16:35:45 2022
+	recv(3, <buffer>, 1, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 16:35:45 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:36:03 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:36:09 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:36:09 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:36:20 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:39:30 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:39:30 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:39:30 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:39:35 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:40:41 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:40:41 2022
+	Received <<<Update	>>> from socket 3.
+STATUS Sun Nov 13 16:41:59 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:42:00 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:42:00 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:42:00 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:42:00 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:42:00 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 16:42:00 2022
+	Receiving 9 nodes.
+ERROR Sun Nov 13 16:42:00 2022
+	Cannot receive nodes not from a client.
+STATUS Sun Nov 13 16:42:00 2022
+	Closed connection on 3.
+ERROR Sun Nov 13 16:43:18 2022
+	connect(..) to localhost:1026 failed.
+STATUS Sun Nov 13 16:43:25 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:43:25 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:43:25 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:43:25 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:43:25 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:43:25 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 16:43:25 2022
+	Receiving 9 nodes.
+ERROR Sun Nov 13 16:43:25 2022
+	Cannot receive nodes not from a client.
+STATUS Sun Nov 13 16:43:25 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:43:45 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:43:45 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:43:45 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:43:45 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:43:45 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:43:45 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 16:43:45 2022
+	Receiving 9 nodes.
+ERROR Sun Nov 13 16:43:45 2022
+	Cannot receive nodes not from a client.
+STATUS Sun Nov 13 16:43:45 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:43:59 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:44:00 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:44:00 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:44:07 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:44:24 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:44:24 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 16:44:43 2022
+	Receiving 9 nodes.
+ERROR Sun Nov 13 16:44:53 2022
+	Cannot receive nodes not from a client.
+STATUS Sun Nov 13 16:44:55 2022
+	Closed connection on 3.
+ERROR Sun Nov 13 16:45:45 2022
+	connect(..) to localhost:1026 failed.
+STATUS Sun Nov 13 16:45:54 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:45:55 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:45:55 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:46:01 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:46:02 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:46:02 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 16:46:06 2022
+	Receiving 9 nodes.
+ERROR Sun Nov 13 16:46:11 2022
+	Cannot receive nodes not from a client.
+STATUS Sun Nov 13 16:46:11 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:47:02 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:47:03 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:47:03 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:47:08 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:47:08 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:47:08 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 16:47:11 2022
+	Receiving 9 nodes.
+STATUS Sun Nov 13 16:47:15 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:47:15 2022
+	Received <<<Node>>> from socket 3.
+ERROR Sun Nov 13 16:47:27 2022
+	Wrong command received; Node<id><hash><length> expected
+STATUS Sun Nov 13 16:47:27 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:50:42 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:50:42 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:50:42 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:50:47 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:50:47 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:50:47 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+ERROR Sun Nov 13 16:50:56 2022
+	connect(..) to localhost:1026 failed.
+STATUS Sun Nov 13 16:51:06 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:51:06 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:51:06 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:51:06 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:51:06 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 16:51:06 2022
+	Receiving 9 nodes.
+STATUS Sun Nov 13 16:51:06 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:51:06 2022
+	Received <<<Node>>> from socket 3.
+ERROR Sun Nov 13 16:51:06 2022
+	Wrong command received; Node<id><hash><length> expected
+STATUS Sun Nov 13 16:51:06 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:52:09 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:52:09 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:52:09 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:52:09 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:52:26 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:52:26 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 16:52:26 2022
+	Receiving 9 nodes.
+ERROR Sun Nov 13 16:53:34 2022
+	recv(3, <buffer>, 1, 0 failed. Returned value =0 â€” the intended sender has closed the connection.
+STATUS Sun Nov 13 16:53:34 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 16:54:13 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:54:13 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:54:13 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:54:13 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:54:19 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:54:19 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 16:54:19 2022
+	Receiving 9 nodes.
+STATUS Sun Nov 13 16:54:47 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:54:47 2022
+	Received <<<Node>>> from socket 3.
+ERROR Sun Nov 13 16:54:47 2022
+	Wrong command received; Node<id><hash><length> expected
+STATUS Sun Nov 13 16:54:47 2022
+	Closed connection on 3.
+ERROR Sun Nov 13 16:56:33 2022
+	connect(..) to localhost:1026 failed.
+STATUS Sun Nov 13 16:56:38 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 16:56:38 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 16:56:38 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 16:56:38 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 16:56:38 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:56:38 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 16:56:38 2022
+	Receiving 9 nodes.
+STATUS Sun Nov 13 16:56:38 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 16:56:38 2022
+	Received <<<Node>>> from socket 3.
+ERROR Sun Nov 13 16:56:38 2022
+	Wrong command received; Node<id><hash><length> expected
+STATUS Sun Nov 13 16:56:38 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 17:02:25 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 17:02:25 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 17:02:25 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 17:02:25 2022
+	Sent <<<Update>>> from socket 3.
+ERROR Sun Nov 13 17:02:25 2022
+	recv(3, <buffer>, 1, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 17:02:25 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 17:02:49 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 17:02:50 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 17:02:50 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 17:02:50 2022
+	Sent <<<Update>>> from socket 3.
+ERROR Sun Nov 13 17:02:50 2022
+	recv(3, <buffer>, 1, 0) failed. Returned value =-1.
+STATUS Sun Nov 13 17:02:50 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 17:03:20 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 17:03:33 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 17:04:12 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 17:36:36 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Receiving 9 nodes.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Node  1>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<But the stars that marked our starting fall away.>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Node #>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<We must go deeper into greater pain>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Node %>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<for it is not permitted that we stay.>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Node >>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Hope not ever to see Heaven.>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Node +>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<I have come to lead you to the other shore;>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Node .>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<into eternal darkness; into fire and into ice.>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Node &>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Before me there were no created things>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Node &>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<But those that last foreverâ€”as do I.>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Node $>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Received <<<Abandon all hope you who enter here.>>> from socket 3.
+STATUS Sun Nov 13 17:36:37 2022
+	Updated strings successfully.
+STATUS Sun Nov 13 17:36:37 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Receiving 9 nodes.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Node  1>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<But the stars that marked our starting fall away.>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Node #>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<We must go deeper into greater pain>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Node %>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<for it is not permitted that we stay.>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Node >>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Hope not ever to see Heaven.>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Node +>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<I have come to lead you to the other shore;>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Node .>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<into eternal darkness; into fire and into ice.>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Node &>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Before me there were no created things>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Node &>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<But those that last foreverâ€”as do I.>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Node $>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Received <<<Abandon all hope you who enter here.>>> from socket 3.
+STATUS Sun Nov 13 17:40:19 2022
+	Updated strings successfully.
+STATUS Sun Nov 13 17:40:19 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 17:41:03 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Receiving 9 nodes.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Node  1>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<But the stars that marked our starting fall away.>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Node #>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<We must go deeper into greater pain>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Node %>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<for it is not permitted that we stay.>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Node >>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Hope not ever to see Heaven.>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Node +>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<I have come to lead you to the other shore;>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Node .>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<into eternal darkness; into fire and into ice.>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Node &>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Before me there were no created things>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Node &>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<But those that last foreverâ€”as do I.>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Node $>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Received <<<Abandon all hope you who enter here.>>> from socket 3.
+STATUS Sun Nov 13 17:41:04 2022
+	Updated strings successfully.
+STATUS Sun Nov 13 17:41:04 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Receiving 9 nodes.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Node  1>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<But the stars that marked our starting fall away.>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Node #>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<We must go deeper into greater pain>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Node %>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<for it is not permitted that we stay.>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Node >>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Hope not ever to see Heaven.>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Node +>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<I have come to lead you to the other shore;>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Node .>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<into eternal darkness; into fire and into ice.>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Node &>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Before me there were no created things>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Node &>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<But those that last foreverâ€”as do I.>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Node $>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Received <<<Abandon all hope you who enter here.>>> from socket 3.
+STATUS Sun Nov 13 17:41:30 2022
+	Updated strings successfully.
+STATUS Sun Nov 13 17:41:30 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<MspHandshake>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<HandshakeResponse>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Sent <<<Update>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<UpdateResponse	>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Receiving 9 nodes.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Node  1>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<But the stars that marked our starting fall away.>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Node #>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<We must go deeper into greater pain>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Node %>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<for it is not permitted that we stay.>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Node >>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Hope not ever to see Heaven.>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Node +>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<I have come to lead you to the other shore;>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Node .>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<into eternal darkness; into fire and into ice.>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Node &>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Before me there were no created things>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Node &>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<But those that last foreverâ€”as do I.>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Node $>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Received <<<Abandon all hope you who enter here.>>> from socket 3.
+STATUS Sun Nov 13 17:48:20 2022
+	Updated strings successfully.
+STATUS Sun Nov 13 17:48:20 2022
+	Closed connection on 3.
+STATUS Sun Nov 13 18:01:25 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Sent <<<Update>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<UpdateResponse	>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Receiving 9 nodes. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Node  1>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<But the stars that marked our starting fall away.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Node #>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<We must go deeper into greater pain>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Node %>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<for it is not permitted that we stay.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Node >>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Hope not ever to see Heaven.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Node +>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<I have come to lead you to the other shore;>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Node .>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<into eternal darkness; into fire and into ice.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Before me there were no created things>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<But those that last foreverâ€”as do I.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Node $>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Received <<<Abandon all hope you who enter here.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Updated strings successfully. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:01:25 2022
+	Closed the connection. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:15 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 18:02:15 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:15 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:15 2022
+	Sent <<<Update>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:15 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:15 2022
+	Received <<<UpdateResponse	>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:15 2022
+	Receiving 9 nodes. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:15 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<Node  1>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<But the stars that marked our starting fall away.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<Node #>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<We must go deeper into greater pain>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<Node %>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<for it is not permitted that we stay.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<Node >>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<Hope not ever to see Heaven.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<Node +>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<I have come to lead you to the other shore;>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<Node .>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<into eternal darkness; into fire and into ice.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<Before me there were no created things>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<But those that last foreverâ€”as do I.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<Node $>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Received <<<Abandon all hope you who enter here.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Updated strings successfully. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Closed the connection. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:16 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Sent <<<Update>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<UpdateResponse	>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Receiving 9 nodes. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Node  1>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<But the stars that marked our starting fall away.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Node #>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<We must go deeper into greater pain>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Node %>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<for it is not permitted that we stay.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Node >>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Hope not ever to see Heaven.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Node +>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<I have come to lead you to the other shore;>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Node .>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<into eternal darkness; into fire and into ice.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Before me there were no created things>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<But those that last foreverâ€”as do I.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Node $>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Received <<<Abandon all hope you who enter here.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Updated strings successfully. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:17 2022
+	Closed the connection. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Connected to localhost:1026. 
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Sent <<<Update>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<UpdateResponse	>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Receiving 9 nodes. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Node  1>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<But the stars that marked our starting fall away.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Node #>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<We must go deeper into greater pain>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Node %>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<for it is not permitted that we stay.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Node >>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Hope not ever to see Heaven.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Node +>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<I have come to lead you to the other shore;>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Node .>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<into eternal darkness; into fire and into ice.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Before me there were no created things>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<But those that last foreverâ€”as do I.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Node $>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Received <<<Abandon all hope you who enter here.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Updated strings successfully. Socket 3, thread id: 0x2060f2500.
+STATUS Sun Nov 13 18:02:18 2022
+	Closed the connection. Socket 3, thread id: 0x2060f2500.
