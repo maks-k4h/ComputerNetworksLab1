@@ -157,16 +157,16 @@ std::string MspConnection::receiveCommands()
     return receive(hLen);
 }
 
-std::string MspConnection::who()
+std::string MspConnection::requestWho()
 {
     if (role_ != CLIENT)
     {
-        std::string em = "Cannot request 'Who' not from a server.";
+        std::string em = "Cannot request 'Who' not from a client.";
         logError(em);
         throw MspException(em);
     }
 
-    send("Who", "");
+    send(WhoRequest, "");
 
     // Expected response: WhoResponse<length><data>, where
     // length takes 1 byte and <data> has length of <length>
@@ -184,6 +184,24 @@ std::string MspConnection::who()
     int length = (int)(u_char)commands[WhoResponse.length()];
 
     return receive(length);
+}
+
+void MspConnection::responseWho()
+{
+    if (role_ != SERVER)
+    {
+        std::string em = "Cannot response to 'Who' not from a server.";
+        logError(em);
+        throw MspException(em);
+    }
+
+    std::string data = "Not boring at all 'who' response...";
+
+    char dl[1] = {(char)data.length()};
+
+    std::string commands = WhoResponse + std::string(dl, 1);
+
+    send(commands, data);
 }
 
 void MspConnection::ignore(std::chrono::milliseconds ms)

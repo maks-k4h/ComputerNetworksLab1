@@ -19,7 +19,7 @@ void processRequest(Server* server, MspConnection& connection)
 
     if (commands == MspConnection::WhoRequest)
     {
-        // process Who request
+        connection.responseWho();
     }
     else if (commands == MspConnection::UpdateRequest)
     {

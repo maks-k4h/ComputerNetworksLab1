@@ -22,11 +22,14 @@ private:
     StringStorage stringStorage_;
     Logger logger_;
 
-    void process(std::string userCommand);
-
-    void update(MspConnection&);
+    static std::string readUsersCommand();
+    void process(const std::string& command, MspConnection&);
 
     void renderStrings();
+
+    static void helpCommand();
+    void updateCommand(MspConnection&);
+    void whoCommand(MspConnection&);
 };
 
 #endif //CLIENT_CLIENT_H_

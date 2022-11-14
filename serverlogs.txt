@@ -1916,3 +1916,317 @@ STATUS Sun Nov 13 18:02:18 2022
 	The intended sender has closed the connection. Socket 4, thread id: 0x16cfeb000.
 STATUS Sun Nov 13 18:02:18 2022
 	Closed the connection. Socket 4, thread id: 0x16cfeb000.
+STATUS Mon Nov 14 23:42:12 2022
+	Starting server on thread 0x2060f2500.
+STATUS Mon Nov 14 23:42:12 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Mon Nov 14 23:42:22 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.210.185. The created file descriptor is 4.
+STATUS Mon Nov 14 23:42:22 2022
+	New connection will be processed on thread 0x16af0b000
+STATUS Mon Nov 14 23:42:22 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16af0b000.
+STATUS Mon Nov 14 23:42:22 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16af0b000.
+STATUS Mon Nov 14 23:42:54 2022
+	The intended sender has closed the connection. Socket 4, thread id: 0x16af0b000.
+STATUS Mon Nov 14 23:42:54 2022
+	Closed the connection. Socket 4, thread id: 0x16af0b000.
+STATUS Tue Nov 15 00:04:56 2022
+	Starting server on thread 0x2060f2500.
+STATUS Tue Nov 15 00:04:56 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Tue Nov 15 00:05:00 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.210.217. The created file descriptor is 4.
+STATUS Tue Nov 15 00:05:00 2022
+	New connection will be processed on thread 0x16d1af000
+STATUS Tue Nov 15 00:05:00 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:01 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Update>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Sent <<<UpdateResponse	>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Sent <<<Node #We must go deeper into greater pain>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Sent <<<Node %for it is not permitted that we stay.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Sent <<<Node Hope not ever to see Heaven.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Sent <<<Node &Before me there were no created things>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Sent <<<Node &But those that last forever—as do I.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:09 2022
+	Sent strings successfully. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Update>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Sent <<<UpdateResponse	>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Sent <<<Node #We must go deeper into greater pain>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Sent <<<Node %for it is not permitted that we stay.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Sent <<<Node Hope not ever to see Heaven.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Sent <<<Node &Before me there were no created things>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Sent <<<Node &But those that last forever—as do I.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:05:20 2022
+	Sent strings successfully. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Update>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Sent <<<UpdateResponse	>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Sent <<<Node #We must go deeper into greater pain>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Sent <<<Node %for it is not permitted that we stay.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Sent <<<Node Hope not ever to see Heaven.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Sent <<<Node &Before me there were no created things>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Sent <<<Node &But those that last forever—as do I.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>>. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:28 2022
+	Sent strings successfully. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:41 2022
+	The intended sender has closed the connection. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:06:41 2022
+	Closed the connection. Socket 4, thread id: 0x16d1af000.
+STATUS Tue Nov 15 00:22:42 2022
+	Starting server on thread 0x2060f2500.
+STATUS Tue Nov 15 00:22:42 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Tue Nov 15 00:22:46 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.211.15. The created file descriptor is 4.
+STATUS Tue Nov 15 00:22:46 2022
+	New connection will be processed on thread 0x16bb6f000
+STATUS Tue Nov 15 00:22:46 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:22:46 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:23:36 2022
+	The intended sender has closed the connection. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:23:36 2022
+	Closed the connection. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:23:37 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.211.40. The created file descriptor is 4.
+STATUS Tue Nov 15 00:23:37 2022
+	New connection will be processed on thread 0x16bb6f000
+STATUS Tue Nov 15 00:23:37 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:23:38 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:23:57 2022
+	Received <<<>>>. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:23:57 2022
+	Received <<<Who>>>. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:24:19 2022
+	The intended sender has closed the connection. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:24:19 2022
+	Closed the connection. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:24:20 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.211.59. The created file descriptor is 4.
+STATUS Tue Nov 15 00:24:20 2022
+	New connection will be processed on thread 0x16bb6f000
+STATUS Tue Nov 15 00:24:20 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:24:20 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:25:57 2022
+	The intended sender has closed the connection. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:25:57 2022
+	Closed the connection. Socket 4, thread id: 0x16bb6f000.
+STATUS Tue Nov 15 00:26:26 2022
+	Starting server on thread 0x2060f2500.
+STATUS Tue Nov 15 00:26:26 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Tue Nov 15 00:26:30 2022
+	Starting server on thread 0x2060f2500.
+STATUS Tue Nov 15 00:26:30 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Tue Nov 15 00:26:41 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.211.118. The created file descriptor is 4.
+STATUS Tue Nov 15 00:26:41 2022
+	New connection will be processed on thread 0x16d7c7000
+STATUS Tue Nov 15 00:26:41 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16d7c7000.
+STATUS Tue Nov 15 00:26:41 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16d7c7000.
+STATUS Tue Nov 15 00:26:50 2022
+	Received <<<>>>. Socket 4, thread id: 0x16d7c7000.
+STATUS Tue Nov 15 00:26:50 2022
+	Received <<<Who>>>. Socket 4, thread id: 0x16d7c7000.
+STATUS Tue Nov 15 00:27:25 2022
+	Sent <<<WhoResponse#Not boring at all 'who' response...>>>. Socket 4, thread id: 0x16d7c7000.
+STATUS Tue Nov 15 00:28:22 2022
+	Starting server on thread 0x2060f2500.
+STATUS Tue Nov 15 00:28:22 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Tue Nov 15 00:28:28 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.211.160. The created file descriptor is 4.
+STATUS Tue Nov 15 00:28:28 2022
+	New connection will be processed on thread 0x16b36b000
+STATUS Tue Nov 15 00:28:28 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:28:28 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:28:30 2022
+	Received <<<>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:28:30 2022
+	Received <<<Who>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:28:30 2022
+	Sent <<<WhoResponse#Not boring at all 'who' response...>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:28:36 2022
+	The intended sender has closed the connection. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:28:36 2022
+	Closed the connection. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:28:47 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.211.169. The created file descriptor is 4.
+STATUS Tue Nov 15 00:28:47 2022
+	New connection will be processed on thread 0x16b36b000
+STATUS Tue Nov 15 00:28:47 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:28:48 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:28:49 2022
+	Received <<<>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:28:49 2022
+	Received <<<Who>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:28:49 2022
+	Sent <<<WhoResponse#Not boring at all 'who' response...>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Update>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Sent <<<UpdateResponse	>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Sent <<<Node #We must go deeper into greater pain>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Sent <<<Node %for it is not permitted that we stay.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Sent <<<Node Hope not ever to see Heaven.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Sent <<<Node &Before me there were no created things>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Sent <<<Node &But those that last forever—as do I.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:16 2022
+	Sent strings successfully. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Update>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Sent <<<UpdateResponse	>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Sent <<<Node #We must go deeper into greater pain>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Sent <<<Node %for it is not permitted that we stay.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Sent <<<Node Hope not ever to see Heaven.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Sent <<<Node &Before me there were no created things>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Sent <<<Node &But those that last forever—as do I.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:33 2022
+	Sent strings successfully. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Update>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Sent <<<UpdateResponse	>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Sent <<<Node  1But the stars that marked our starting fall away.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Sent <<<Node #We must go deeper into greater pain>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Sent <<<Node %for it is not permitted that we stay.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Sent <<<Node Hope not ever to see Heaven.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Sent <<<Node +I have come to lead you to the other shore;>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Sent <<<Node .into eternal darkness; into fire and into ice.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Sent <<<Node &Before me there were no created things>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Sent <<<Node &But those that last forever—as do I.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Sent <<<Node $Abandon all hope you who enter here.>>>. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Sent strings successfully. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	The intended sender has closed the connection. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:29:37 2022
+	Closed the connection. Socket 4, thread id: 0x16b36b000.
+STATUS Tue Nov 15 00:32:17 2022
+	Starting server on thread 0x2060f2500.
+STATUS Tue Nov 15 00:32:17 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Tue Nov 15 00:34:29 2022
+	Starting server on thread 0x2060f2500.
+STATUS Tue Nov 15 00:34:29 2022
+	Listening on service 1026 with backlog of 5, file descriptor is 3.
+STATUS Tue Nov 15 00:34:32 2022
+	Accepted new request on socket with file descriptor 3. Requested from 16.2.212.52. The created file descriptor is 4.
+STATUS Tue Nov 15 00:34:32 2022
+	New connection will be processed on thread 0x16b38b000
+STATUS Tue Nov 15 00:34:32 2022
+	Sent <<<MspHandshake>>>. Socket 4, thread id: 0x16b38b000.
+STATUS Tue Nov 15 00:34:32 2022
+	Received <<<HandshakeResponse>>>. Socket 4, thread id: 0x16b38b000.
+STATUS Tue Nov 15 00:34:39 2022
+	The intended sender has closed the connection. Socket 4, thread id: 0x16b38b000.
+STATUS Tue Nov 15 00:34:39 2022
+	Closed the connection. Socket 4, thread id: 0x16b38b000.

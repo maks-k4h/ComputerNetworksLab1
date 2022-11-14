@@ -30,7 +30,8 @@ public:
     // ignores every byte received during 'ms'
     void ignore(std::chrono::milliseconds ms = std::chrono::milliseconds(500));
 
-    std::string who(); // client only
+    std::string requestWho();   // client only
+    void responseWho();  // server only
 
     void update(StringStorage&);    // both client and server
 

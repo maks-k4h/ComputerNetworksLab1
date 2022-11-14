@@ -1408,3 +1408,477 @@ STATUS Sun Nov 13 18:02:18 2022
 	Updated strings successfully. Socket 3, thread id: 0x2060f2500.
 STATUS Sun Nov 13 18:02:18 2022
 	Closed the connection. Socket 3, thread id: 0x2060f2500.
+STATUS Mon Nov 14 23:42:22 2022
+	Connected to localhost:1026. 
+STATUS Mon Nov 14 23:42:22 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Mon Nov 14 23:42:22 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
+ERROR Tue Nov 15 00:04:43 2022
+	connect(..) to localhost:1026 failed.
+STATUS Tue Nov 15 00:05:00 2022
+	Connected to localhost:1026. 
+STATUS Tue Nov 15 00:05:01 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:01 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Sent <<<Update>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<UpdateResponse	>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Receiving 9 nodes. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Node  1>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<But the stars that marked our starting fall away.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Node #>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<We must go deeper into greater pain>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Node %>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<for it is not permitted that we stay.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Node >>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Hope not ever to see Heaven.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Node +>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<I have come to lead you to the other shore;>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Node .>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<into eternal darkness; into fire and into ice.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Before me there were no created things>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<But those that last forever—as do I.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Node $>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Received <<<Abandon all hope you who enter here.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:09 2022
+	Updated strings successfully. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Sent <<<Update>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<UpdateResponse	>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Receiving 9 nodes. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Node  1>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<But the stars that marked our starting fall away.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Node #>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<We must go deeper into greater pain>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Node %>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<for it is not permitted that we stay.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Node >>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Hope not ever to see Heaven.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Node +>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<I have come to lead you to the other shore;>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Node .>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<into eternal darkness; into fire and into ice.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Before me there were no created things>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<But those that last forever—as do I.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Node $>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Received <<<Abandon all hope you who enter here.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:05:20 2022
+	Updated strings successfully. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Sent <<<Update>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<UpdateResponse	>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Receiving 9 nodes. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Node  1>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<But the stars that marked our starting fall away.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Node #>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<We must go deeper into greater pain>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Node %>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<for it is not permitted that we stay.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Node >>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Hope not ever to see Heaven.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Node +>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<I have come to lead you to the other shore;>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Node .>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<into eternal darkness; into fire and into ice.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Before me there were no created things>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<But those that last forever—as do I.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Node $>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Received <<<Abandon all hope you who enter here.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:06:28 2022
+	Updated strings successfully. Socket 3, thread id: 0x2060f2500.
+ERROR Tue Nov 15 00:22:06 2022
+	connect(..) to localhost:1026 failed.
+STATUS Tue Nov 15 00:22:46 2022
+	Connected to localhost:1026. 
+STATUS Tue Nov 15 00:22:46 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:22:46 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:23:37 2022
+	Connected to localhost:1026. 
+STATUS Tue Nov 15 00:23:38 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:23:38 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:23:57 2022
+	Sent <<<Who>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:24:20 2022
+	Connected to localhost:1026. 
+STATUS Tue Nov 15 00:24:20 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:24:20 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:26:41 2022
+	Connected to localhost:1026. 
+STATUS Tue Nov 15 00:26:41 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:26:41 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:26:50 2022
+	Sent <<<Who>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:27:25 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:27:25 2022
+	Received <<<WhoResponse#>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:27:25 2022
+	Received <<<Not boring at all 'who' response...>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:27:47 2022
+	Sent <<<Who>>>. Socket 3, thread id: 0x2060f2500.
+ERROR Tue Nov 15 00:27:47 2022
+	recv(3, <buffer>, 1, 0) failed. Returned value =-1. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:27:47 2022
+	Closed the connection. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:28:28 2022
+	Connected to localhost:1026. 
+STATUS Tue Nov 15 00:28:28 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:28:28 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:28:30 2022
+	Sent <<<Who>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:28:30 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:28:30 2022
+	Received <<<WhoResponse#>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:28:30 2022
+	Received <<<Not boring at all 'who' response...>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:28:47 2022
+	Connected to localhost:1026. 
+STATUS Tue Nov 15 00:28:48 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:28:48 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:28:49 2022
+	Sent <<<Who>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:28:49 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:28:49 2022
+	Received <<<WhoResponse#>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:28:49 2022
+	Received <<<Not boring at all 'who' response...>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Sent <<<Update>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<UpdateResponse	>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Receiving 9 nodes. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Node  1>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<But the stars that marked our starting fall away.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Node #>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<We must go deeper into greater pain>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Node %>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<for it is not permitted that we stay.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Node >>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Hope not ever to see Heaven.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Node +>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<I have come to lead you to the other shore;>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Node .>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<into eternal darkness; into fire and into ice.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Before me there were no created things>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<But those that last forever—as do I.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Node $>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Received <<<Abandon all hope you who enter here.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:16 2022
+	Updated strings successfully. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Sent <<<Update>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<UpdateResponse	>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Receiving 9 nodes. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Node  1>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<But the stars that marked our starting fall away.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Node #>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<We must go deeper into greater pain>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Node %>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<for it is not permitted that we stay.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Node >>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Hope not ever to see Heaven.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Node +>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<I have come to lead you to the other shore;>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Node .>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<into eternal darkness; into fire and into ice.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Before me there were no created things>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<But those that last forever—as do I.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Node $>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Received <<<Abandon all hope you who enter here.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:33 2022
+	Updated strings successfully. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Sent <<<Update>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<UpdateResponse	>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Receiving 9 nodes. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Node  1>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<But the stars that marked our starting fall away.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Node #>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<We must go deeper into greater pain>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Node %>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<for it is not permitted that we stay.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Node >>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Hope not ever to see Heaven.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Node +>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<I have come to lead you to the other shore;>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Node .>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<into eternal darkness; into fire and into ice.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Before me there were no created things>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Node &>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<But those that last forever—as do I.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Node $>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Received <<<Abandon all hope you who enter here.>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:29:37 2022
+	Updated strings successfully. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:34:32 2022
+	Connected to localhost:1026. 
+STATUS Tue Nov 15 00:34:32 2022
+	Received <<<MspHandshake>>>. Socket 3, thread id: 0x2060f2500.
+STATUS Tue Nov 15 00:34:32 2022
+	Sent <<<HandshakeResponse>>>. Socket 3, thread id: 0x2060f2500.
