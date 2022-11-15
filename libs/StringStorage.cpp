@@ -9,63 +9,29 @@
 StringStorage::StringStorage()
 = default;
 
-StringStorage::Node StringStorage::getById(StringStorage::IdType id)
+StringStorage::Node StringStorage::getById(int id)
 {
-    auto v = std::find_if(nodes_.begin(), nodes_.end(),
-                          [id](Node& n)
-                          {
-                              return n.id_ == id;
-                          } );
-
-    if (v == nodes_.end())
-        throw StringStorageException("No node with id " + std::to_string(id) + "found");
-
-    return *v;
+    if (id < 0 || nodes_.size() <= id)
+        throw StringStorageException("Cannot access string with id "
+        + std::to_string(id) + ".");
+    return nodes_[id];
 }
 
-void StringStorage::setDataById(StringStorage::IdType id, const std::string& data)
+void StringStorage::setNode(int i, const StringStorage::Node& node)
 {
-    if (data.size() > MAX_STRING_L)
-        throw StringStorageException("Attempt to set too long string as a node's value.");
-
-    auto v = std::find_if(nodes_.begin(), nodes_.end(),
-                          [id](Node& n)
-                          {
-                              return n.id_ == id;
-                          } );
-
-    if (v == nodes_.end())
-        throw StringStorageException("No node with id " + std::to_string(id) + "found");
-
-    v->data_ = data;
-    ++v->hash_;
-}
-
-void StringStorage::setNode(const StringStorage::Node& node)
-{
-    try
-    {
-        getById(node.id_);
-        setDataById(node.id_, node.data_);
-    }
-    catch (...)
-    {
-        if (nodes_.size() >= MAX_STRING_N)
-            throw StringStorageException("Number of strings overflow.");
+    if (i == nodes_.size())
         nodes_.emplace_back(node);
-    }
+    else if (i >= 0 && i < nodes_.size())
+        nodes_[i] = node;
+    else
+        throw StringStorageException("Cannot access requested node.");
 }
 
 void StringStorage::addString(std::string s)
 {
-    if (nodes_.empty())
-    {
-        nodes_.emplace_back(Node{0, 0, s});
-    }
-    else
-    {
-        nodes_.emplace_back(Node{(nodes_.end() - 1)->id_ + 1, 0, s});
-    }
+    if (nodes_.size() >= MAX_STRING_N)
+        throw StringStorageException("Number of strings overflow.");
+    nodes_.emplace_back(Node{0, std::move(s)});
 }
 
 size_t StringStorage::size()

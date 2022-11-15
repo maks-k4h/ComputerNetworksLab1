@@ -30,6 +30,14 @@ private:
     static void helpCommand();
     void updateCommand(MspConnection&);
     void whoCommand(MspConnection&);
+    void ccCommand(MspConnection&);
+    void ccCommand(MspConnection&, int sId, char positionC, char c);
+    void rcCommand(MspConnection&);
+    void rcCommand(MspConnection&, int sId, char positionC);
+    void icCommand(MspConnection&);
+    void icCommand(MspConnection&, int sId, char positionC, char c, bool after);
+
+    int getPositionInString(const std::string& s, char c);
 };
 
 #endif //CLIENT_CLIENT_H_

@@ -25,6 +25,86 @@ void processRequest(Server* server, MspConnection& connection)
     {
         connection.update(server->storage_);
     }
+    else if (commands.length() == MspConnection::CCRequest.length() + 4
+    && commands.substr(0, MspConnection::CCRequest.length()) == MspConnection::CCRequest)
+    {
+        int sId = (int)*(commands.end() - 4);
+        StringStorage::HashType hash = (StringStorage::HashType)*(commands.end() - 3);
+        int pos = (int)*(commands.end() - 2);
+        char ch = (char)*(commands.end() - 1);
+
+        try
+        {
+            if (server->storage_.getById(sId).hash_ != hash)
+                throw std::exception(); // outdated hash
+
+            auto s = server->storage_.getById(sId).data_;
+            s[pos] = ch;    // updating the string
+            ++hash;         // updating the hash
+
+            server->storage_.setNode(sId, StringStorage::Node{hash, s});
+            connection.sendTransactionStatus(true);
+        }
+        catch (...)
+        {
+            connection.sendTransactionStatus(false);
+        }
+    }
+    else if (commands.length() == MspConnection::ICRequest.length() + 4
+    && commands.substr(0, MspConnection::ICRequest.length()) == MspConnection::ICRequest)
+    {
+        int sId = (int)*(commands.end() - 4);
+        StringStorage::HashType hash = (StringStorage::HashType)*(commands.end() - 3);
+        int pos = (int)*(commands.end() - 2);
+        char ch = (char)*(commands.end() - 1);
+
+        try
+        {
+            if (server->storage_.getById(sId).hash_ != hash)
+                throw std::exception(); // outdated hash
+
+            if (server->storage_.getById(sId).data_.length() >= MAX_STRING_L)
+                throw std::exception(); // max string length reached
+
+            auto s = server->storage_.getById(sId).data_;
+            char in[1] = {ch};
+            s.insert(pos, std::string(in, 1));  // inserting the character
+            ++hash;                             // updating the hash
+
+            server->storage_.setNode(sId, StringStorage::Node{hash, s});
+            connection.sendTransactionStatus(true);
+        }
+        catch (...)
+        {
+            connection.sendTransactionStatus(false);
+        }
+    }
+    else if (commands.length() == MspConnection::RCRequest.length() + 3
+    && commands.substr(0, MspConnection::RCRequest.length()) == MspConnection::RCRequest)
+    {
+        int sId = (int)*(commands.end() - 3);
+        StringStorage::HashType hash = (StringStorage::HashType)*(commands.end() - 2);
+        int pos = (int)*(commands.end() - 1);
+
+        try
+        {
+            if (server->storage_.getById(sId).hash_ != hash)
+                throw std::exception(); // outdated hash
+
+
+
+            auto s = server->storage_.getById(sId).data_;
+            s = s.erase(pos, 1);    // removing one character
+            ++hash;                 // updating the hash
+
+            server->storage_.setNode(sId, StringStorage::Node{hash, s});
+            connection.sendTransactionStatus(true);
+        }
+        catch (...)
+        {
+            connection.sendTransactionStatus(false);
+        }
+    }
     else
     {
         std::string em = "Unknown command";

@@ -19,6 +19,13 @@ public:
     static const std::string UpdateRequest;
     static const std::string UpdateResponse;
     static const std::string NodeResponse;
+    static const std::string CCRequest;
+    static const std::string ICRequest;
+    static const std::string RCRequest;
+    static const std::string TransactionResponse;
+
+    static const char SucceededTransaction;
+    static const char FailedTransaction;
 
     enum Role {SERVER, CLIENT};
 
@@ -35,8 +42,16 @@ public:
 
     void update(StringStorage&);    // both client and server
 
-    void sendNode(const StringStorage::Node& node);    // server only
-    StringStorage::Node receiveNode();          // client only
+    void sendNode(int id, const StringStorage::Node& node);    // server only
+    std::pair<int, StringStorage::Node> receiveNode();          // client only
+
+    bool receiveTransactionStatus();
+    void sendTransactionStatus(bool);
+    bool ccRequest(int id, StringStorage::Node, int index, char ch); // client only
+    bool icRequest(int id, StringStorage::Node, int index, char ch); // client only
+    bool rcRequest(int id, StringStorage::Node, int index); // client only
+
+
 private:
     Role role_;
 

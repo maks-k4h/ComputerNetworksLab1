@@ -17,22 +17,19 @@ public:
 
     explicit StringStorage();
 
-    using IdType    = int;
-    using HashType  = int;
+    using HashType  = uint8_t;
 
     struct Node
     {
-        IdType id_;
         HashType hash_;
         std::string data_;
     };
 
 
-    void setNode(const Node& node); // if a node with the same id exists it'll be overridden
+    void setNode(int i, const Node& node); // if a node with the same id exists it'll be overridden
     void addString(std::string s);
 
-    Node getById(IdType id);
-    void setDataById(IdType id, const std::string& data);
+    Node getById(int i);
 
     size_t size();
 
