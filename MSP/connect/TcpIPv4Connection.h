@@ -11,6 +11,12 @@
 #include "TcpIPv4ClosedConnectionException.h"
 #include <chrono>
 
+/*
+ * TcpIPv4Connection instances represent particular tcp/ip4
+ * connections and serve as abstractions for c-library calls.
+ *
+ * Instances cannot be copied, only moved.
+ * */
 
 class TcpIPv4Connection
 {

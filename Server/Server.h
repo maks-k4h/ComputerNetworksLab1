@@ -12,7 +12,7 @@
 #include "../MSP/MspConnection.h"
 #include "../libs/StringStorage.h"
 
-class Server {  // TODO: make sure it's thread-save.
+class Server {
 public:
     explicit Server(const std::string& logFilePath);
 
@@ -25,6 +25,10 @@ private:
     friend void processConnection(Server*, TcpIPv4Connection);
     friend void processRequest(Server*, MspConnection&);
 
+    void processCCRequest(MspConnection& connection, std::string commands);
+    void processICRequest(MspConnection& connection, std::string commands);
+    void processRCRequest(MspConnection& connection, std::string commands);
+    std::mutex mutex_;
 };
 
 

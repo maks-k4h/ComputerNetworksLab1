@@ -63,32 +63,21 @@ void Client::renderStrings()
 
 void Client::process(const std::string& command, MspConnection& connection)
 {
-    if (command == "h" || command == "help")
-    {
+    if (command == "h" || command == "help") {
         helpCommand();
-    }
-    else if (command == "u" || command == "update")
-    {
+    } else if (command == "u" || command == "update") {
         updateCommand(connection);
-    }
-    else if (command == "w" || command == "who")
-    {
+    } else if (command == "w" || command == "who") {
         whoCommand(connection);
-    }
-    else if (command.substr(0, 2) == "cc")
-    {
+    } else if (command.substr(0, 2) == "cc") {
         ccCommand(connection);
-    }
-    else if (command.substr(0, 2) == "ic")
-    {
+    } else if (command.substr(0, 2) == "ic") {
         icCommand(connection);
-    }
-    else if (command.substr(0, 2) == "rc")
-    {
+    } else if (command.substr(0, 2) == "rc") {
         rcCommand(connection);
-    }
-    else
-    {
+    } else if (command.substr(0, 6) == "blonde") {
+        connection.sendUnknownCommand(); // send unknown command,
+    } else {
         std::cout << "> Unknown command!\n";
     }
 
@@ -178,7 +167,7 @@ void Client::ccCommand(MspConnection &connection, int sId, char positionC, char 
 {
     if (sId < 0 || sId >= stringStorage_.size())
     {
-        std::cout << "Wrong string identifier.\n";
+        std::cout << "> Wrong string identifier.\n";
         return;
     }
 
@@ -218,7 +207,7 @@ void Client::rcCommand(MspConnection &connection, int sId, char positionC)
 {
     if (sId < 0 || sId >= stringStorage_.size())
     {
-        std::cout << "Wrong string identifier.\n";
+        std::cout << "> Wrong string identifier.\n";
         return;
     }
 
@@ -257,7 +246,7 @@ void Client::icCommand(MspConnection &connection, int sId, char positionC, char 
 {
     if (sId < 0 || sId >= stringStorage_.size())
     {
-        std::cout << "Wrong string identifier.\n";
+        std::cout << "> Wrong string identifier.\n";
         return;
     }
 

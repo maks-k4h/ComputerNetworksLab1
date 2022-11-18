@@ -14,6 +14,8 @@
 class MspConnection : private TcpIPv4Connection
 {
 public:
+    static const std::string HandshakeRequest;
+    static const std::string HandshakeResponse;
     static const std::string WhoRequest;
     static const std::string WhoResponse;
     static const std::string UpdateRequest;
@@ -23,6 +25,7 @@ public:
     static const std::string ICRequest;
     static const std::string RCRequest;
     static const std::string TransactionResponse;
+    static const std::string UnknownCommandResponse;
 
     static const char SucceededTransaction;
     static const char FailedTransaction;
@@ -32,17 +35,21 @@ public:
     // after initialization the TcpIPv4Connection base will be unusable
     explicit MspConnection(TcpIPv4Connection&&, Role);
 
+    // returns a header of a Msp-package
     std::string receiveCommands();
 
     // ignores every byte received during 'ms'
     void ignore(std::chrono::milliseconds ms = std::chrono::milliseconds(500));
 
+    void sendUnknownCommand();
+
     std::string requestWho();   // client only
-    void responseWho();  // server only
+    void responseWho();         // server only
 
     void update(StringStorage&);    // both client and server
 
-    void sendNode(int id, const StringStorage::Node& node);    // server only
+    void sendNode(int id, const StringStorage::Node& node);     // server only
+    // returns an id and a node
     std::pair<int, StringStorage::Node> receiveNode();          // client only
 
     bool receiveTransactionStatus();

@@ -6,6 +6,8 @@
 
 #include "MspException.h"
 
+const std::string MspConnection::HandshakeRequest       = "MspHandshakeRequest";
+const std::string MspConnection::HandshakeResponse      = "MspHandshakeResponse";
 const std::string MspConnection::WhoRequest             = "Who";
 const std::string MspConnection::WhoResponse            = "WhoResponse";
 const std::string MspConnection::UpdateRequest          = "Update";
@@ -15,6 +17,7 @@ const std::string MspConnection::CCRequest              = "ChangeCharacterReques
 const std::string MspConnection::ICRequest              = "InsertCharacterRequest";
 const std::string MspConnection::RCRequest              = "RemoveCharacterRequest";
 const std::string MspConnection::TransactionResponse    = "TransactionStatus";
+const std::string MspConnection::UnknownCommandResponse = "UnknownCommand";
 
 const char MspConnection::SucceededTransaction          = '0';
 const char MspConnection::FailedTransaction             = '1';
@@ -29,11 +32,11 @@ void MspConnection::exchangeHandshakes()
 {
     if (role_ == SERVER)
     {
-        std::string command("MspHandshake");
+        std::string command(HandshakeRequest);
 
         send(command, "");
 
-        std::string expected = "HandshakeResponse";
+        std::string expected = HandshakeResponse;
 
         std::string response = receive(1 + (int)expected.length());
 
@@ -47,7 +50,7 @@ void MspConnection::exchangeHandshakes()
     if (role_ == CLIENT)
     {
         std::string message = receive();
-        std::string expected = "MspHandshake";
+        std::string expected = HandshakeRequest;
 
         if (message.substr(1) != expected)
         {
@@ -56,7 +59,7 @@ void MspConnection::exchangeHandshakes()
             throw MspException(em);
         }
 
-        send("HandshakeResponse", "");
+        send(HandshakeResponse, "");
     }
 }
 
@@ -339,6 +342,11 @@ bool MspConnection::rcRequest(int id, StringStorage::Node node, int index)
         logStatus("RC transaction succeeded.");
         return true;
     }
+}
+
+void MspConnection::sendUnknownCommand()
+{
+    send(UnknownCommandResponse, "");
 }
 
 

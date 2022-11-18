@@ -16,7 +16,7 @@
  * and listening for new connections.
  * Every instance of the class can work in both listener or connector mode.
  * If you first called listen(..) that succeed and try to call connect(..)
- * an exception will be thrown. Be sure to call stopListening(..) priorly.
+ * an exception will be thrown. Be sure to make prior stopListening(..) call.
  *
  * Both connect and accept methods return TcpIPv4Connection object, that
  * represent this connection.
@@ -28,6 +28,8 @@
  * accepts a connection request and returns TcpIPv4Connection object to work
  * specifically with this connection. The connector is still listening for new
  * connections. To stop listening call stopListening().
+ *
+ * Instances cannot be copied, only moved.
  *
  * */
 
